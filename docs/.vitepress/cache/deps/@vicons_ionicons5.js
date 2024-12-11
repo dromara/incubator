@@ -3,11 +3,13 @@ import {
   createElementBlock,
   createStaticVNode,
   defineComponent,
+  init_vue_runtime_esm_bundler,
   openBlock
-} from "./chunk-LW4I4DCF.js";
-import "./chunk-UVKRO5ER.js";
+} from "./chunk-FGOAH7C7.js";
+import "./chunk-BYYN2XO5.js";
 
 // node_modules/@vicons/ionicons5/es/Accessibility.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42,6 +44,7 @@ var Accessibility_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AccessibilityOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_12 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -84,6 +87,7 @@ var AccessibilityOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AccessibilitySharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_13 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -118,6 +122,7 @@ var AccessibilitySharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Add.js
+init_vue_runtime_esm_bundler();
 var _hoisted_14 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -160,6 +165,7 @@ var Add_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AddCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_15 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -184,6 +190,7 @@ var AddCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AddCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_16 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -239,6 +246,7 @@ var AddCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AddCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_17 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -263,6 +271,7 @@ var AddCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AddOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_18 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -305,6 +314,7 @@ var AddOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AddSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_19 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -347,6 +357,7 @@ var AddSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Airplane.js
+init_vue_runtime_esm_bundler();
 var _hoisted_110 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -371,6 +382,7 @@ var Airplane_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AirplaneOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_111 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -399,6 +411,7 @@ var AirplaneOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AirplaneSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_112 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -423,6 +436,7 @@ var AirplaneSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Alarm.js
+init_vue_runtime_esm_bundler();
 var _hoisted_113 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -467,6 +481,7 @@ var Alarm_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AlarmOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_114 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -482,6 +497,7 @@ var AlarmOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AlarmSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_115 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -526,6 +542,7 @@ var AlarmSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Albums.js
+init_vue_runtime_esm_bundler();
 var _hoisted_116 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -570,6 +587,7 @@ var Albums_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AlbumsOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_117 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -630,6 +648,7 @@ var AlbumsOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AlbumsSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_118 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -674,6 +693,7 @@ var AlbumsSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Alert.js
+init_vue_runtime_esm_bundler();
 var _hoisted_119 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -718,6 +738,7 @@ var Alert_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AlertCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_120 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -742,6 +763,7 @@ var AlertCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AlertCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_121 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -793,6 +815,7 @@ var AlertCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AlertCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_122 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -827,6 +850,7 @@ var AlertCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AlertOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_123 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -871,6 +895,7 @@ var AlertOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AlertSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_124 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -913,6 +938,7 @@ var AlertSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AmericanFootball.js
+init_vue_runtime_esm_bundler();
 var _hoisted_125 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -957,6 +983,7 @@ var AmericanFootball_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AmericanFootballOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_126 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -972,6 +999,7 @@ var AmericanFootballOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AmericanFootballSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_127 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1016,6 +1044,7 @@ var AmericanFootballSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Analytics.js
+init_vue_runtime_esm_bundler();
 var _hoisted_128 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1040,6 +1069,7 @@ var Analytics_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AnalyticsOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_129 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1055,6 +1085,7 @@ var AnalyticsOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AnalyticsSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_130 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1079,6 +1110,7 @@ var AnalyticsSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Aperture.js
+init_vue_runtime_esm_bundler();
 var _hoisted_131 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1094,6 +1126,7 @@ var Aperture_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ApertureOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_132 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1109,6 +1142,7 @@ var ApertureOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ApertureSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_133 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1124,6 +1158,7 @@ var ApertureSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Apps.js
+init_vue_runtime_esm_bundler();
 var _hoisted_134 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1139,6 +1174,7 @@ var Apps_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AppsOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_135 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1154,6 +1190,7 @@ var AppsOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AppsSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_136 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1169,6 +1206,7 @@ var AppsSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Archive.js
+init_vue_runtime_esm_bundler();
 var _hoisted_137 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1208,6 +1246,7 @@ var Archive_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArchiveOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_138 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1282,6 +1321,7 @@ var ArchiveOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArchiveSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_139 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1321,6 +1361,7 @@ var ArchiveSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowBack.js
+init_vue_runtime_esm_bundler();
 var _hoisted_140 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1363,6 +1404,7 @@ var ArrowBack_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowBackCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_141 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1387,6 +1429,7 @@ var ArrowBackCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowBackCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_142 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1442,6 +1485,7 @@ var ArrowBackCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowBackCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_143 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1466,6 +1510,7 @@ var ArrowBackCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowBackOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_144 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1508,6 +1553,7 @@ var ArrowBackOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowBackSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_145 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1550,6 +1596,7 @@ var ArrowBackSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowDown.js
+init_vue_runtime_esm_bundler();
 var _hoisted_146 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1592,6 +1639,7 @@ var ArrowDown_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowDownCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_147 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1616,6 +1664,7 @@ var ArrowDownCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowDownCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_148 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1671,6 +1720,7 @@ var ArrowDownCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowDownCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_149 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1695,6 +1745,7 @@ var ArrowDownCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowDownOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_150 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1737,6 +1788,7 @@ var ArrowDownOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowDownSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_151 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1779,6 +1831,7 @@ var ArrowDownSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowForward.js
+init_vue_runtime_esm_bundler();
 var _hoisted_152 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1821,6 +1874,7 @@ var ArrowForward_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowForwardCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_153 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1845,6 +1899,7 @@ var ArrowForwardCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowForwardCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_154 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1900,6 +1955,7 @@ var ArrowForwardCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowForwardCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_155 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1924,6 +1980,7 @@ var ArrowForwardCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowForwardOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_156 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -1966,6 +2023,7 @@ var ArrowForwardOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowForwardSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_157 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2008,6 +2066,7 @@ var ArrowForwardSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowRedo.js
+init_vue_runtime_esm_bundler();
 var _hoisted_158 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2032,6 +2091,7 @@ var ArrowRedo_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowRedoCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_159 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2056,6 +2116,7 @@ var ArrowRedoCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowRedoCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_160 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2093,6 +2154,7 @@ var ArrowRedoCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowRedoCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_161 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2117,6 +2179,7 @@ var ArrowRedoCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowRedoOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_162 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2144,6 +2207,7 @@ var ArrowRedoOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowRedoSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_163 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2168,6 +2232,7 @@ var ArrowRedoSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowUndo.js
+init_vue_runtime_esm_bundler();
 var _hoisted_164 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2192,6 +2257,7 @@ var ArrowUndo_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowUndoCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_165 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2216,6 +2282,7 @@ var ArrowUndoCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowUndoCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_166 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2253,6 +2320,7 @@ var ArrowUndoCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowUndoCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_167 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2277,6 +2345,7 @@ var ArrowUndoCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowUndoOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_168 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2304,6 +2373,7 @@ var ArrowUndoOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowUndoSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_169 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2328,6 +2398,7 @@ var ArrowUndoSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowUp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_170 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2370,6 +2441,7 @@ var ArrowUp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowUpCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_171 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2394,6 +2466,7 @@ var ArrowUpCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowUpCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_172 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2449,6 +2522,7 @@ var ArrowUpCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowUpCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_173 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2473,6 +2547,7 @@ var ArrowUpCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowUpOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_174 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2515,6 +2590,7 @@ var ArrowUpOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ArrowUpSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_175 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2557,6 +2633,7 @@ var ArrowUpSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/At.js
+init_vue_runtime_esm_bundler();
 var _hoisted_176 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2599,6 +2676,7 @@ var At_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AtCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_177 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2633,6 +2711,7 @@ var AtCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AtCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_178 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2674,6 +2753,7 @@ var AtCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AtCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_179 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2708,6 +2788,7 @@ var AtCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AtOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_180 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2750,6 +2831,7 @@ var AtOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AtSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_181 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2774,6 +2856,7 @@ var AtSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Attach.js
+init_vue_runtime_esm_bundler();
 var _hoisted_182 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2802,6 +2885,7 @@ var Attach_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AttachOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_183 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2830,6 +2914,7 @@ var AttachOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/AttachSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_184 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2858,6 +2943,7 @@ var AttachSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Backspace.js
+init_vue_runtime_esm_bundler();
 var _hoisted_185 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2882,6 +2968,7 @@ var Backspace_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BackspaceOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_186 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2897,6 +2984,7 @@ var BackspaceOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BackspaceSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_187 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2921,6 +3009,7 @@ var BackspaceSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Bag.js
+init_vue_runtime_esm_bundler();
 var _hoisted_188 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2945,6 +3034,7 @@ var Bag_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BagAdd.js
+init_vue_runtime_esm_bundler();
 var _hoisted_189 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -2969,6 +3059,7 @@ var BagAdd_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BagAddOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_190 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3039,6 +3130,7 @@ var BagAddOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BagAddSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_191 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3063,6 +3155,7 @@ var BagAddSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BagCheck.js
+init_vue_runtime_esm_bundler();
 var _hoisted_192 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3087,6 +3180,7 @@ var BagCheck_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BagCheckOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_193 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3143,6 +3237,7 @@ var BagCheckOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BagCheckSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_194 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3167,6 +3262,7 @@ var BagCheckSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BagHandle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_195 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3191,6 +3287,7 @@ var BagHandle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BagHandleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_196 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3247,6 +3344,7 @@ var BagHandleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BagHandleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_197 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3271,6 +3369,7 @@ var BagHandleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BagOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_198 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3313,6 +3412,7 @@ var BagOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BagRemove.js
+init_vue_runtime_esm_bundler();
 var _hoisted_199 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3337,6 +3437,7 @@ var BagRemove_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BagRemoveOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1100 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3393,6 +3494,7 @@ var BagRemoveOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BagRemoveSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1101 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3417,6 +3519,7 @@ var BagRemoveSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BagSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1102 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3441,6 +3544,7 @@ var BagSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Balloon.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1103 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3465,6 +3569,7 @@ var Balloon_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BalloonOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1104 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3534,6 +3639,7 @@ var BalloonOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BalloonSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1105 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3558,6 +3664,7 @@ var BalloonSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Ban.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1106 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3600,6 +3707,7 @@ var Ban_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BanOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1107 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3642,6 +3750,7 @@ var BanOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BanSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1108 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3666,6 +3775,7 @@ var BanSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Bandage.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1109 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3681,6 +3791,7 @@ var Bandage_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BandageOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1115 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3696,6 +3807,7 @@ var BandageOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BandageSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1116 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3740,6 +3852,7 @@ var BandageSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BarChart.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1117 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3794,6 +3907,7 @@ var BarChart_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BarChartOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1118 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3879,6 +3993,7 @@ var BarChartOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BarChartSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1119 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3933,6 +4048,7 @@ var BarChartSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Barbell.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1120 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3957,6 +4073,7 @@ var Barbell_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BarbellOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1121 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3972,6 +4089,7 @@ var BarbellOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BarbellSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1122 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -3996,6 +4114,7 @@ var BarbellSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Barcode.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1123 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4020,6 +4139,7 @@ var Barcode_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BarcodeOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1124 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4035,6 +4155,7 @@ var BarcodeOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BarcodeSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1125 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4050,6 +4171,7 @@ var BarcodeSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Baseball.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1126 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4094,6 +4216,7 @@ var Baseball_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BaseballOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1127 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4109,6 +4232,7 @@ var BaseballOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BaseballSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1128 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4153,6 +4277,7 @@ var BaseballSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Basket.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1129 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4177,6 +4302,7 @@ var Basket_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BasketOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1130 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4217,6 +4343,7 @@ var BasketOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BasketSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1131 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4251,6 +4378,7 @@ var BasketSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Basketball.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1132 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4266,6 +4394,7 @@ var Basketball_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BasketballOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1133 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4281,6 +4410,7 @@ var BasketballOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BasketballSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1134 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4296,6 +4426,7 @@ var BasketballSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BatteryCharging.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1135 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4311,6 +4442,7 @@ var BatteryCharging_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BatteryChargingOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1136 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4326,6 +4458,7 @@ var BatteryChargingOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BatteryChargingSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1137 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4341,6 +4474,7 @@ var BatteryChargingSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BatteryDead.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1138 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4388,6 +4522,7 @@ var BatteryDead_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BatteryDeadOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1139 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4435,6 +4570,7 @@ var BatteryDeadOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BatteryDeadSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1140 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4477,6 +4613,7 @@ var BatteryDeadSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BatteryFull.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1141 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4543,6 +4680,7 @@ var BatteryFull_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BatteryFullOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1142 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4609,6 +4747,7 @@ var BatteryFullOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BatteryFullSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1143 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4653,6 +4792,7 @@ var BatteryFullSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BatteryHalf.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1144 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4719,6 +4859,7 @@ var BatteryHalf_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BatteryHalfOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1145 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4785,6 +4926,7 @@ var BatteryHalfOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BatteryHalfSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1146 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4829,6 +4971,7 @@ var BatteryHalfSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Beaker.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1147 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4853,6 +4996,7 @@ var Beaker_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BeakerOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1148 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4895,6 +5039,7 @@ var BeakerOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BeakerSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1149 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4919,6 +5064,7 @@ var BeakerSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Bed.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1150 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4953,6 +5099,7 @@ var Bed_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BedOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1151 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4968,6 +5115,7 @@ var BedOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BedSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1152 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -4992,6 +5140,7 @@ var BedSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Beer.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1153 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5016,6 +5165,7 @@ var Beer_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BeerOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1154 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5031,6 +5181,7 @@ var BeerOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BeerSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1155 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5055,6 +5206,7 @@ var BeerSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Bicycle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1156 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5109,6 +5261,7 @@ var Bicycle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BicycleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1157 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5173,6 +5326,7 @@ var BicycleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BicycleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1158 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5227,6 +5381,7 @@ var BicycleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Bluetooth.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1159 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5251,6 +5406,7 @@ var Bluetooth_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BluetoothOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1160 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5279,6 +5435,7 @@ var BluetoothOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BluetoothSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1161 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5303,6 +5460,7 @@ var BluetoothSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Boat.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1162 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5337,6 +5495,7 @@ var Boat_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BoatOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1163 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5352,6 +5511,7 @@ var BoatOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BoatSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1164 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5386,6 +5546,7 @@ var BoatSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Body.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1165 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5422,6 +5583,7 @@ var Body_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BodyOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1166 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5464,6 +5626,7 @@ var BodyOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BodySharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1167 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5500,6 +5663,7 @@ var BodySharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Bonfire.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1168 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5515,6 +5679,7 @@ var Bonfire_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BonfireOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1169 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5530,6 +5695,7 @@ var BonfireOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BonfireSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1170 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5545,6 +5711,7 @@ var BonfireSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Book.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1171 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5579,6 +5746,7 @@ var Book_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BookOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1172 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5621,6 +5789,7 @@ var BookOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BookSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1173 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5655,6 +5824,7 @@ var BookSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Bookmark.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1174 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5679,6 +5849,7 @@ var Bookmark_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BookmarkOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1175 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5707,6 +5878,7 @@ var BookmarkOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BookmarkSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1176 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5731,6 +5903,7 @@ var BookmarkSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Bookmarks.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1177 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5765,6 +5938,7 @@ var Bookmarks_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BookmarksOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1178 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5805,6 +5979,7 @@ var BookmarksOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BookmarksSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1179 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5839,6 +6014,7 @@ var BookmarksSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BowlingBall.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1180 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5863,6 +6039,7 @@ var BowlingBall_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BowlingBallOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1181 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5928,6 +6105,7 @@ var BowlingBallOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BowlingBallSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1182 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5952,6 +6130,7 @@ var BowlingBallSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Briefcase.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1183 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -5996,6 +6175,7 @@ var Briefcase_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BriefcaseOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1184 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6070,6 +6250,7 @@ var BriefcaseOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BriefcaseSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1185 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6104,6 +6285,7 @@ var BriefcaseSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Browsers.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1186 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6128,6 +6310,7 @@ var Browsers_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BrowsersOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1187 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6170,6 +6353,7 @@ var BrowsersOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BrowsersSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1188 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6194,6 +6378,7 @@ var BrowsersSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Brush.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1189 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6228,6 +6413,7 @@ var Brush_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BrushOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1190 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6270,6 +6456,7 @@ var BrushOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BrushSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1191 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6304,6 +6491,7 @@ var BrushSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Bug.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1192 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6338,6 +6526,7 @@ var Bug_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BugOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1193 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6353,6 +6542,7 @@ var BugOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BugSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1195 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6387,6 +6577,7 @@ var BugSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Build.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1196 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6411,6 +6602,7 @@ var Build_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BuildOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1197 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6451,6 +6643,7 @@ var BuildOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BuildSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1198 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6475,6 +6668,7 @@ var BuildSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Bulb.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1199 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6519,6 +6713,7 @@ var Bulb_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BulbOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1200 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6534,6 +6729,7 @@ var BulbOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BulbSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1201 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6578,6 +6774,7 @@ var BulbSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Bus.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1202 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6602,6 +6799,7 @@ var Bus_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BusOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1203 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6617,6 +6815,7 @@ var BusOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BusSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1204 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6651,6 +6850,7 @@ var BusSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Business.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1205 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6666,6 +6866,7 @@ var Business_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BusinessOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1206 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6681,6 +6882,7 @@ var BusinessOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/BusinessSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1207 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6735,6 +6937,7 @@ var BusinessSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Cafe.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1208 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6769,6 +6972,7 @@ var Cafe_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CafeOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1209 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6825,6 +7029,7 @@ var CafeOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CafeSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1211 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6859,6 +7064,7 @@ var CafeSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Calculator.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1212 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6883,6 +7089,7 @@ var Calculator_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CalculatorOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1213 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6898,6 +7105,7 @@ var CalculatorOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CalculatorSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1215 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6922,6 +7130,7 @@ var CalculatorSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Calendar.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1216 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6956,6 +7165,7 @@ var Calendar_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CalendarClear.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1217 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -6990,6 +7200,7 @@ var CalendarClear_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CalendarClearOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1218 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7063,6 +7274,7 @@ var CalendarClearOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CalendarClearSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1219 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7097,6 +7309,7 @@ var CalendarClearSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CalendarNumber.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1220 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7131,6 +7344,7 @@ var CalendarNumber_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CalendarNumberOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1221 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7146,6 +7360,7 @@ var CalendarNumberOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CalendarNumberSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1222 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7180,6 +7395,7 @@ var CalendarNumberSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CalendarOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1223 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7195,6 +7411,7 @@ var CalendarOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CalendarSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1224 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7229,6 +7446,7 @@ var CalendarSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Call.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1225 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7253,6 +7471,7 @@ var Call_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CallOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1226 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7280,6 +7499,7 @@ var CallOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CallSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1227 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7304,6 +7524,7 @@ var CallSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Camera.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1228 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7340,6 +7561,7 @@ var Camera_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CameraOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1229 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7397,6 +7619,7 @@ var CameraOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CameraReverse.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1230 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7421,6 +7644,7 @@ var CameraReverse_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CameraReverseOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1231 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7436,6 +7660,7 @@ var CameraReverseOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CameraReverseSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1232 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7460,6 +7685,7 @@ var CameraReverseSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CameraSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1233 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7496,6 +7722,7 @@ var CameraSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Car.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1234 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7520,6 +7747,7 @@ var Car_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CarOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1235 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7535,6 +7763,7 @@ var CarOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CarSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1236 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7559,6 +7788,7 @@ var CarSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CarSport.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1237 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7583,6 +7813,7 @@ var CarSport_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CarSportOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1238 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7598,6 +7829,7 @@ var CarSportOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CarSportSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1239 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7622,6 +7854,7 @@ var CarSportSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Card.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1240 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7656,6 +7889,7 @@ var Card_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CardOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1241 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7715,6 +7949,7 @@ var CardOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CardSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1242 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7749,6 +7984,7 @@ var CardSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretBack.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1243 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7773,6 +8009,7 @@ var CaretBack_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretBackCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1244 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7797,6 +8034,7 @@ var CaretBackCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretBackCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1245 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7834,6 +8072,7 @@ var CaretBackCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretBackCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1246 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7858,6 +8097,7 @@ var CaretBackCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretBackOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1247 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7882,6 +8122,7 @@ var CaretBackOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretBackSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1248 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7906,6 +8147,7 @@ var CaretBackSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretDown.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1249 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7930,6 +8172,7 @@ var CaretDown_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretDownCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1250 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7954,6 +8197,7 @@ var CaretDownCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretDownCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1251 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -7991,6 +8235,7 @@ var CaretDownCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretDownCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1252 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8015,6 +8260,7 @@ var CaretDownCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretDownOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1253 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8039,6 +8285,7 @@ var CaretDownOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretDownSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1254 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8063,6 +8310,7 @@ var CaretDownSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretForward.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1255 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8087,6 +8335,7 @@ var CaretForward_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretForwardCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1256 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8111,6 +8360,7 @@ var CaretForwardCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretForwardCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1257 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8148,6 +8398,7 @@ var CaretForwardCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretForwardCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1258 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8172,6 +8423,7 @@ var CaretForwardCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretForwardOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1259 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8196,6 +8448,7 @@ var CaretForwardOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretForwardSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1260 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8220,6 +8473,7 @@ var CaretForwardSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretUp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1261 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8244,6 +8498,7 @@ var CaretUp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretUpCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1262 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8268,6 +8523,7 @@ var CaretUpCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretUpCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1263 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8305,6 +8561,7 @@ var CaretUpCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretUpCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1264 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8329,6 +8586,7 @@ var CaretUpCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretUpOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1265 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8353,6 +8611,7 @@ var CaretUpOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CaretUpSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1266 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8377,6 +8636,7 @@ var CaretUpSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Cart.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1267 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8425,6 +8685,7 @@ var Cart_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CartOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1268 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8499,6 +8760,7 @@ var CartOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CartSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1269 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8547,6 +8809,7 @@ var CartSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Cash.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1270 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8562,6 +8825,7 @@ var Cash_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CashOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1271 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8577,6 +8841,7 @@ var CashOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CashSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1272 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8592,6 +8857,7 @@ var CashSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Cellular.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1273 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8646,6 +8912,7 @@ var Cellular_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CellularOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1274 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8732,6 +8999,7 @@ var CellularOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CellularSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1275 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8786,6 +9054,7 @@ var CellularSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Chatbox.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1276 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8810,6 +9079,7 @@ var Chatbox_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChatboxEllipses.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1277 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8834,6 +9104,7 @@ var ChatboxEllipses_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChatboxEllipsesOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1278 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8897,6 +9168,7 @@ var ChatboxEllipsesOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChatboxEllipsesSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1279 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8921,6 +9193,7 @@ var ChatboxEllipsesSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChatboxOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1280 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8948,6 +9221,7 @@ var ChatboxOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChatboxSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1281 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8972,6 +9246,7 @@ var ChatboxSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Chatbubble.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1282 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -8996,6 +9271,7 @@ var Chatbubble_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChatbubbleEllipses.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1283 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9020,6 +9296,7 @@ var ChatbubbleEllipses_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChatbubbleEllipsesOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1284 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9084,6 +9361,7 @@ var ChatbubbleEllipsesOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChatbubbleEllipsesSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1285 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9108,6 +9386,7 @@ var ChatbubbleEllipsesSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChatbubbleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1286 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9136,6 +9415,7 @@ var ChatbubbleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChatbubbleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1287 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9160,6 +9440,7 @@ var ChatbubbleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Chatbubbles.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1288 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9204,6 +9485,7 @@ var Chatbubbles_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChatbubblesOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1289 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9246,6 +9528,7 @@ var ChatbubblesOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChatbubblesSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1290 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9280,6 +9563,7 @@ var ChatbubblesSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Checkbox.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1291 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9304,6 +9588,7 @@ var Checkbox_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CheckboxOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1292 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9350,6 +9635,7 @@ var CheckboxOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CheckboxSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1293 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9374,6 +9660,7 @@ var CheckboxSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Checkmark.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1294 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9402,6 +9689,7 @@ var Checkmark_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CheckmarkCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1295 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9426,6 +9714,7 @@ var CheckmarkCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CheckmarkCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1296 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9467,6 +9756,7 @@ var CheckmarkCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CheckmarkCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1297 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9491,6 +9781,7 @@ var CheckmarkCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CheckmarkDone.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1298 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9547,6 +9838,7 @@ var CheckmarkDone_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CheckmarkDoneCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1299 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9571,6 +9863,7 @@ var CheckmarkDoneCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CheckmarkDoneCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1300 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9640,6 +9933,7 @@ var CheckmarkDoneCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CheckmarkDoneCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1301 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9664,6 +9958,7 @@ var CheckmarkDoneCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CheckmarkDoneOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1302 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9720,6 +10015,7 @@ var CheckmarkDoneOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CheckmarkDoneSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1303 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9776,6 +10072,7 @@ var CheckmarkDoneSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CheckmarkOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1304 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9804,6 +10101,7 @@ var CheckmarkOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CheckmarkSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1305 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9832,6 +10130,7 @@ var CheckmarkSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronBack.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1306 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9860,6 +10159,7 @@ var ChevronBack_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronBackCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1307 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9884,6 +10184,7 @@ var ChevronBackCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronBackCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1308 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9925,6 +10226,7 @@ var ChevronBackCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronBackCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1309 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9949,6 +10251,7 @@ var ChevronBackCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronBackOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1311 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -9977,6 +10280,7 @@ var ChevronBackOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronBackSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1312 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10005,6 +10309,7 @@ var ChevronBackSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronDown.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1313 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10033,6 +10338,7 @@ var ChevronDown_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronDownCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1314 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10057,6 +10363,7 @@ var ChevronDownCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronDownCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1315 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10098,6 +10405,7 @@ var ChevronDownCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronDownCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1316 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10122,6 +10430,7 @@ var ChevronDownCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronDownOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1317 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10150,6 +10459,7 @@ var ChevronDownOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronDownSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1318 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10178,6 +10488,7 @@ var ChevronDownSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronForward.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1319 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10206,6 +10517,7 @@ var ChevronForward_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronForwardCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1320 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10230,6 +10542,7 @@ var ChevronForwardCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronForwardCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1321 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10271,6 +10584,7 @@ var ChevronForwardCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronForwardCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1322 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10295,6 +10609,7 @@ var ChevronForwardCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronForwardOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1323 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10323,6 +10638,7 @@ var ChevronForwardOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronForwardSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1324 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10351,6 +10667,7 @@ var ChevronForwardSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronUp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1325 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10379,6 +10696,7 @@ var ChevronUp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronUpCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1326 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10403,6 +10721,7 @@ var ChevronUpCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronUpCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1327 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10444,6 +10763,7 @@ var ChevronUpCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronUpCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1328 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10468,6 +10788,7 @@ var ChevronUpCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronUpOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1329 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10496,6 +10817,7 @@ var ChevronUpOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ChevronUpSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1330 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10524,6 +10846,7 @@ var ChevronUpSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Clipboard.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1331 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10548,6 +10871,7 @@ var Clipboard_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ClipboardOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1332 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10593,6 +10917,7 @@ var ClipboardOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ClipboardSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1333 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10617,6 +10942,7 @@ var ClipboardSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Close.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1334 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10641,6 +10967,7 @@ var Close_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloseCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1335 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10665,6 +10992,7 @@ var CloseCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloseCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1336 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10720,6 +11048,7 @@ var CloseCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloseCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1337 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10744,6 +11073,7 @@ var CloseCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloseOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1338 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10786,6 +11116,7 @@ var CloseOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloseSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1339 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10810,6 +11141,7 @@ var CloseSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Cloud.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1340 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10834,6 +11166,7 @@ var Cloud_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloudCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1341 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10858,6 +11191,7 @@ var CloudCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloudCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1342 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10895,6 +11229,7 @@ var CloudCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloudCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1343 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10919,6 +11254,7 @@ var CloudCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloudDone.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1344 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10943,6 +11279,7 @@ var CloudDone_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloudDoneOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1345 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -10984,6 +11321,7 @@ var CloudDoneOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloudDoneSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1346 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11008,6 +11346,7 @@ var CloudDoneSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloudDownload.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1347 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11042,6 +11381,7 @@ var CloudDownload_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloudDownloadOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1348 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11098,6 +11438,7 @@ var CloudDownloadOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloudDownloadSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1349 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11132,6 +11473,7 @@ var CloudDownloadSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloudOffline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1350 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11176,6 +11518,7 @@ var CloudOffline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloudOfflineOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1351 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11232,6 +11575,7 @@ var CloudOfflineOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloudOfflineSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1352 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11276,6 +11620,7 @@ var CloudOfflineSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloudOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1353 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11303,6 +11648,7 @@ var CloudOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloudSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1354 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11327,6 +11673,7 @@ var CloudSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloudUpload.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1355 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11361,6 +11708,7 @@ var CloudUpload_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloudUploadOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1356 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11417,6 +11765,7 @@ var CloudUploadOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloudUploadSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1357 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11451,6 +11800,7 @@ var CloudUploadSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Cloudy.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1358 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11475,6 +11825,7 @@ var Cloudy_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloudyNight.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1359 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11509,6 +11860,7 @@ var CloudyNight_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloudyNightOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1360 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11550,6 +11902,7 @@ var CloudyNightOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloudyNightSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1361 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11584,6 +11937,7 @@ var CloudyNightSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloudyOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1362 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11611,6 +11965,7 @@ var CloudyOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CloudySharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1363 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11635,6 +11990,7 @@ var CloudySharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Code.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1364 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11669,6 +12025,7 @@ var Code_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CodeDownload.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1365 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11739,6 +12096,7 @@ var CodeDownload_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CodeDownloadOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1366 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11809,6 +12167,7 @@ var CodeDownloadOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CodeDownloadSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1367 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11879,6 +12238,7 @@ var CodeDownloadSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CodeOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1368 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11921,6 +12281,7 @@ var CodeOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CodeSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1369 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11955,6 +12316,7 @@ var CodeSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CodeSlash.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1370 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -11999,6 +12361,7 @@ var CodeSlash_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CodeSlashOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1371 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12055,6 +12418,7 @@ var CodeSlashOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CodeSlashSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1372 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12099,6 +12463,7 @@ var CodeSlashSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CodeWorking.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1373 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12114,6 +12479,7 @@ var CodeWorking_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CodeWorkingOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1374 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12129,6 +12495,7 @@ var CodeWorkingOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CodeWorkingSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1375 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12144,6 +12511,7 @@ var CodeWorkingSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Cog.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1376 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12168,6 +12536,7 @@ var Cog_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CogOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1377 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12192,6 +12561,7 @@ var CogOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CogSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1378 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12216,6 +12586,7 @@ var CogSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ColorFill.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1379 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12250,6 +12621,7 @@ var ColorFill_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ColorFillOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1380 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12290,6 +12662,7 @@ var ColorFillOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ColorFillSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1381 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12324,6 +12697,7 @@ var ColorFillSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ColorFilter.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1382 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12339,6 +12713,7 @@ var ColorFilter_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ColorFilterOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1383 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12398,6 +12773,7 @@ var ColorFilterOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ColorFilterSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1384 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12413,6 +12789,7 @@ var ColorFilterSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ColorPalette.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1385 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12437,6 +12814,7 @@ var ColorPalette_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ColorPaletteOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1386 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12452,6 +12830,7 @@ var ColorPaletteOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ColorPaletteSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1387 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12476,6 +12855,7 @@ var ColorPaletteSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ColorWand.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1388 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12491,6 +12871,7 @@ var ColorWand_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ColorWandOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1389 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12506,6 +12887,7 @@ var ColorWandOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ColorWandSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1390 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12521,6 +12903,7 @@ var ColorWandSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Compass.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1391 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12557,6 +12940,7 @@ var Compass_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CompassOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1392 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12594,6 +12978,7 @@ var CompassOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CompassSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1393 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12630,6 +13015,7 @@ var CompassSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Construct.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1394 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12674,6 +13060,7 @@ var Construct_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ConstructOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1395 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12744,6 +13131,7 @@ var ConstructOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ConstructSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1396 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12788,6 +13176,7 @@ var ConstructSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Contract.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1397 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12803,6 +13192,7 @@ var Contract_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ContractOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1398 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12818,6 +13208,7 @@ var ContractOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ContractSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1399 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12833,6 +13224,7 @@ var ContractSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Contrast.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1400 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12857,6 +13249,7 @@ var Contrast_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ContrastOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1401 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12896,6 +13289,7 @@ var ContrastOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ContrastSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1402 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12920,6 +13314,7 @@ var ContrastSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Copy.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1403 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -12954,6 +13349,7 @@ var Copy_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CopyOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1404 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13000,6 +13396,7 @@ var CopyOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CopySharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1405 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13034,6 +13431,7 @@ var CopySharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Create.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1406 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13078,6 +13476,7 @@ var Create_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CreateOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1407 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13126,6 +13525,7 @@ var CreateOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CreateSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1408 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13180,6 +13580,7 @@ var CreateSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Crop.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1409 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13214,6 +13615,7 @@ var Crop_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CropOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1410 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13284,6 +13686,7 @@ var CropOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CropSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1411 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13318,6 +13721,7 @@ var CropSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Cube.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1412 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13362,6 +13766,7 @@ var Cube_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CubeOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1413 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13418,6 +13823,7 @@ var CubeOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CubeSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1414 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13462,6 +13868,7 @@ var CubeSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Cut.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1415 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13506,6 +13913,7 @@ var Cut_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CutOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1416 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13521,6 +13929,7 @@ var CutOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/CutSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1417 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13555,6 +13964,7 @@ var CutSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Desktop.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1418 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13589,6 +13999,7 @@ var Desktop_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DesktopOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1419 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13659,6 +14070,7 @@ var DesktopOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DesktopSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1420 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13683,6 +14095,7 @@ var DesktopSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Diamond.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1421 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13698,6 +14111,7 @@ var Diamond_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DiamondOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1422 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13713,6 +14127,7 @@ var DiamondOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DiamondSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1423 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13728,6 +14143,7 @@ var DiamondSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Dice.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1424 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13772,6 +14188,7 @@ var Dice_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DiceOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1425 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13787,6 +14204,7 @@ var DiceOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DiceSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1426 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13831,6 +14249,7 @@ var DiceSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Disc.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1427 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13865,6 +14284,7 @@ var Disc_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DiscOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1428 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13921,6 +14341,7 @@ var DiscOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DiscSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1429 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13957,6 +14378,7 @@ var DiscSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Document.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1430 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -13991,6 +14413,7 @@ var Document_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DocumentAttach.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1431 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -14025,6 +14448,7 @@ var DocumentAttach_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DocumentAttachOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1432 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -14081,6 +14505,7 @@ var DocumentAttachOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DocumentAttachSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1433 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -14115,6 +14540,7 @@ var DocumentAttachSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DocumentLock.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1434 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -14159,6 +14585,7 @@ var DocumentLock_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DocumentLockOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1435 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -14224,6 +14651,7 @@ var DocumentLockOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DocumentLockSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1436 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -14268,6 +14696,7 @@ var DocumentLockSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DocumentOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1437 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -14309,6 +14738,7 @@ var DocumentOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DocumentSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1438 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -14343,6 +14773,7 @@ var DocumentSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DocumentText.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1439 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -14377,6 +14808,7 @@ var DocumentText_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DocumentTextOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1440 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -14446,6 +14878,7 @@ var DocumentTextOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DocumentTextSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1441 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -14480,6 +14913,7 @@ var DocumentTextSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Documents.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1442 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -14534,6 +14968,7 @@ var Documents_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DocumentsOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1443 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -14602,6 +15037,7 @@ var DocumentsOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DocumentsSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1444 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -14656,6 +15092,7 @@ var DocumentsSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Download.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1445 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -14690,6 +15127,7 @@ var Download_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DownloadOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1446 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -14746,6 +15184,7 @@ var DownloadOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DownloadSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1447 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -14780,6 +15219,7 @@ var DownloadSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Duplicate.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1448 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -14814,6 +15254,7 @@ var Duplicate_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DuplicateOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1449 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -14888,6 +15329,7 @@ var DuplicateOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/DuplicateSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1450 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -14922,6 +15364,7 @@ var DuplicateSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Ear.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1451 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -14946,6 +15389,7 @@ var Ear_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EarOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1452 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15002,6 +15446,7 @@ var EarOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EarSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1453 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15026,6 +15471,7 @@ var EarSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Earth.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1454 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15050,6 +15496,7 @@ var Earth_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EarthOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1455 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15065,6 +15512,7 @@ var EarthOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EarthSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1456 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15080,6 +15528,7 @@ var EarthSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Easel.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1457 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15119,6 +15568,7 @@ var Easel_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EaselOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1458 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15134,6 +15584,7 @@ var EaselOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EaselSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1459 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15168,6 +15619,7 @@ var EaselSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Egg.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1460 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15192,6 +15644,7 @@ var Egg_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EggOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1461 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15219,6 +15672,7 @@ var EggOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EggSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1462 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15243,6 +15697,7 @@ var EggSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Ellipse.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1463 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15267,6 +15722,7 @@ var Ellipse_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EllipseOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1464 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15297,6 +15753,7 @@ var EllipseOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EllipseSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1465 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15321,6 +15778,7 @@ var EllipseSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EllipsisHorizontal.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1466 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15371,6 +15829,7 @@ var EllipsisHorizontal_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EllipsisHorizontalCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1467 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15434,6 +15893,7 @@ var EllipsisHorizontalCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EllipsisHorizontalCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1468 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15497,6 +15957,7 @@ var EllipsisHorizontalCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EllipsisHorizontalCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1469 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15521,6 +15982,7 @@ var EllipsisHorizontalCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EllipsisHorizontalOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1470 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15580,6 +16042,7 @@ var EllipsisHorizontalOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EllipsisHorizontalSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1471 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15630,6 +16093,7 @@ var EllipsisHorizontalSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EllipsisVertical.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1472 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15680,6 +16144,7 @@ var EllipsisVertical_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EllipsisVerticalCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1473 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15743,6 +16208,7 @@ var EllipsisVerticalCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EllipsisVerticalCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1474 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15806,6 +16272,7 @@ var EllipsisVerticalCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EllipsisVerticalCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1475 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15830,6 +16297,7 @@ var EllipsisVerticalCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EllipsisVerticalOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1476 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15889,6 +16357,7 @@ var EllipsisVerticalOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EllipsisVerticalSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1477 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15939,6 +16408,7 @@ var EllipsisVerticalSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Enter.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1478 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -15973,6 +16443,7 @@ var Enter_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EnterOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1479 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16029,6 +16500,7 @@ var EnterOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EnterSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1480 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16063,6 +16535,7 @@ var EnterSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Exit.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1481 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16097,6 +16570,7 @@ var Exit_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ExitOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1482 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16153,6 +16627,7 @@ var ExitOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ExitSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1483 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16187,6 +16662,7 @@ var ExitSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Expand.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1484 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16202,6 +16678,7 @@ var Expand_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ExpandOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1485 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16217,6 +16694,7 @@ var ExpandOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ExpandSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1486 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16232,6 +16710,7 @@ var ExpandSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ExtensionPuzzle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1487 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16256,6 +16735,7 @@ var ExtensionPuzzle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ExtensionPuzzleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1488 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16284,6 +16764,7 @@ var ExtensionPuzzleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ExtensionPuzzleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1489 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16308,6 +16789,7 @@ var ExtensionPuzzleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Eye.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1490 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16344,6 +16826,7 @@ var Eye_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EyeOff.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1491 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16359,6 +16842,7 @@ var EyeOff_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EyeOffOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1492 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16374,6 +16858,7 @@ var EyeOffOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EyeOffSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1493 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16389,6 +16874,7 @@ var EyeOffSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EyeOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1494 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16432,6 +16918,7 @@ var EyeOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EyeSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1495 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16468,6 +16955,7 @@ var EyeSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Eyedrop.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1496 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16492,6 +16980,7 @@ var Eyedrop_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EyedropOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1497 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16568,6 +17057,7 @@ var EyedropOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/EyedropSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1498 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16592,6 +17082,7 @@ var EyedropSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FastFood.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1499 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16646,6 +17137,7 @@ var FastFood_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FastFoodOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1500 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16661,6 +17153,7 @@ var FastFoodOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FastFoodSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1501 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16705,6 +17198,7 @@ var FastFoodSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Female.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1502 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16729,6 +17223,7 @@ var Female_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FemaleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1503 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16787,6 +17282,7 @@ var FemaleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FemaleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1504 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16811,6 +17307,7 @@ var FemaleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FileTray.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1505 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16835,6 +17332,7 @@ var FileTray_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FileTrayFull.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1506 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16879,6 +17377,7 @@ var FileTrayFull_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FileTrayFullOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1507 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16894,6 +17393,7 @@ var FileTrayFullOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FileTrayFullSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1508 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -16938,6 +17438,7 @@ var FileTrayFullSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FileTrayOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1509 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17007,6 +17508,7 @@ var FileTrayOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FileTraySharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1511 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17031,6 +17533,7 @@ var FileTraySharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FileTrayStacked.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1512 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17065,6 +17568,7 @@ var FileTrayStacked_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FileTrayStackedOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1513 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17080,6 +17584,7 @@ var FileTrayStackedOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FileTrayStackedSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1514 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17114,6 +17619,7 @@ var FileTrayStackedSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Film.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1515 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17138,6 +17644,7 @@ var Film_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FilmOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1516 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17153,6 +17660,7 @@ var FilmOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FilmSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1517 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17177,6 +17685,7 @@ var FilmSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Filter.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1518 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17221,6 +17730,7 @@ var Filter_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FilterCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1519 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17245,6 +17755,7 @@ var FilterCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FilterCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1520 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17314,6 +17825,7 @@ var FilterCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FilterCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1521 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17338,6 +17850,7 @@ var FilterCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FilterOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1522 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17394,6 +17907,7 @@ var FilterOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FilterSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1523 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17438,6 +17952,7 @@ var FilterSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FingerPrint.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1524 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17453,6 +17968,7 @@ var FingerPrint_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FingerPrintOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1525 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17477,6 +17993,7 @@ var FingerPrintOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FingerPrintSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1526 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17492,6 +18009,7 @@ var FingerPrintSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Fish.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1527 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17526,6 +18044,7 @@ var Fish_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FishOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1528 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17579,6 +18098,7 @@ var FishOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FishSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1529 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17613,6 +18133,7 @@ var FishSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Fitness.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1530 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17667,6 +18188,7 @@ var Fitness_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FitnessOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1531 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17709,6 +18231,7 @@ var FitnessOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FitnessSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1532 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17763,6 +18286,7 @@ var FitnessSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Flag.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1533 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17787,6 +18311,7 @@ var Flag_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FlagOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1534 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17815,6 +18340,7 @@ var FlagOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FlagSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1535 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17839,6 +18365,7 @@ var FlagSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Flame.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1536 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17863,6 +18390,7 @@ var Flame_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FlameOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1537 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17905,6 +18433,7 @@ var FlameOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FlameSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1538 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17929,6 +18458,7 @@ var FlameSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Flash.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1539 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17953,6 +18483,7 @@ var Flash_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FlashOff.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1540 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -17997,6 +18528,7 @@ var FlashOff_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FlashOffOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1541 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18041,6 +18573,7 @@ var FlashOffOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FlashOffSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1542 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18085,6 +18618,7 @@ var FlashOffSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FlashOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1543 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18113,6 +18647,7 @@ var FlashOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FlashSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1544 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18137,6 +18672,7 @@ var FlashSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Flashlight.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1545 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18171,6 +18707,7 @@ var Flashlight_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FlashlightOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1546 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18224,6 +18761,7 @@ var FlashlightOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FlashlightSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1547 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18271,6 +18809,7 @@ var FlashlightSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Flask.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1548 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18295,6 +18834,7 @@ var Flask_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FlaskOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1549 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18351,6 +18891,7 @@ var FlaskOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FlaskSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1550 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18375,6 +18916,7 @@ var FlaskSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Flower.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1551 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18411,6 +18953,7 @@ var Flower_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FlowerOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1552 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18426,6 +18969,7 @@ var FlowerOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FlowerSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1553 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18462,6 +19006,7 @@ var FlowerSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Folder.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1554 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18496,6 +19041,7 @@ var Folder_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FolderOpen.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1555 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18530,6 +19076,7 @@ var FolderOpen_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FolderOpenOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1556 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18572,6 +19119,7 @@ var FolderOpenOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FolderOpenSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1557 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18606,6 +19154,7 @@ var FolderOpenSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FolderOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1558 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18648,6 +19197,7 @@ var FolderOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FolderSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1559 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18682,6 +19232,7 @@ var FolderSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Football.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1560 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18706,6 +19257,7 @@ var Football_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FootballOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1561 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18721,6 +19273,7 @@ var FootballOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FootballSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1562 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18745,6 +19298,7 @@ var FootballSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Footsteps.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1563 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18799,6 +19353,7 @@ var Footsteps_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FootstepsOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1564 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18865,6 +19420,7 @@ var FootstepsOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FootstepsSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1565 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18919,6 +19475,7 @@ var FootstepsSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Funnel.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1566 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18943,6 +19500,7 @@ var Funnel_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FunnelOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1567 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18971,6 +19529,7 @@ var FunnelOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/FunnelSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1568 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -18995,6 +19554,7 @@ var FunnelSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GameController.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1569 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19019,6 +19579,7 @@ var GameController_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GameControllerOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1570 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19034,6 +19595,7 @@ var GameControllerOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GameControllerSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1571 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19058,6 +19620,7 @@ var GameControllerSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Gift.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1572 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19073,6 +19636,7 @@ var Gift_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GiftOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1573 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19088,6 +19652,7 @@ var GiftOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GiftSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1574 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19103,6 +19668,7 @@ var GiftSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GitBranch.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1575 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19127,6 +19693,7 @@ var GitBranch_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GitBranchOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1576 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19142,6 +19709,7 @@ var GitBranchOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GitBranchSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1577 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19166,6 +19734,7 @@ var GitBranchSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GitCommit.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1578 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19190,6 +19759,7 @@ var GitCommit_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GitCommitOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1579 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19248,6 +19818,7 @@ var GitCommitOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GitCommitSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1580 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19272,6 +19843,7 @@ var GitCommitSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GitCompare.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1581 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19306,6 +19878,7 @@ var GitCompare_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GitCompareOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1582 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19321,6 +19894,7 @@ var GitCompareOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GitCompareSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1583 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19355,6 +19929,7 @@ var GitCompareSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GitMerge.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1584 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19379,6 +19954,7 @@ var GitMerge_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GitMergeOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1585 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19394,6 +19970,7 @@ var GitMergeOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GitMergeSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1586 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19418,6 +19995,7 @@ var GitMergeSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GitNetwork.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1587 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19442,6 +20020,7 @@ var GitNetwork_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GitNetworkOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1588 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19457,6 +20036,7 @@ var GitNetworkOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GitNetworkSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1589 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19481,6 +20061,7 @@ var GitNetworkSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GitPullRequest.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1590 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19515,6 +20096,7 @@ var GitPullRequest_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GitPullRequestOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1591 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19530,6 +20112,7 @@ var GitPullRequestOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GitPullRequestSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1592 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19564,6 +20147,7 @@ var GitPullRequestSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Glasses.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1593 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19588,6 +20172,7 @@ var Glasses_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GlassesOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1594 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19603,6 +20188,7 @@ var GlassesOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GlassesSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1595 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19627,6 +20213,7 @@ var GlassesSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Globe.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1596 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19642,6 +20229,7 @@ var Globe_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GlobeOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1597 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19657,6 +20245,7 @@ var GlobeOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GlobeSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1598 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19672,6 +20261,7 @@ var GlobeSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Golf.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1599 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19706,6 +20296,7 @@ var Golf_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GolfOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1600 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19747,6 +20338,7 @@ var GolfOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GolfSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1601 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19781,6 +20373,7 @@ var GolfSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Grid.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1602 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19835,6 +20428,7 @@ var Grid_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GridOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1603 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19925,6 +20519,7 @@ var GridOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/GridSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1604 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -19979,6 +20574,7 @@ var GridSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Hammer.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1605 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20013,6 +20609,7 @@ var Hammer_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HammerOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1606 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20055,6 +20652,7 @@ var HammerOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HammerSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1607 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20089,6 +20687,7 @@ var HammerSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HandLeft.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1608 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20113,6 +20712,7 @@ var HandLeft_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HandLeftOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1609 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20128,6 +20728,7 @@ var HandLeftOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HandLeftSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1610 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20152,6 +20753,7 @@ var HandLeftSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HandRight.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1611 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20176,6 +20778,7 @@ var HandRight_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HandRightOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1612 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20191,6 +20794,7 @@ var HandRightOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HandRightSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1613 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20215,6 +20819,7 @@ var HandRightSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Happy.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1614 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20239,6 +20844,7 @@ var Happy_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HappyOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1615 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20302,6 +20908,7 @@ var HappyOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HappySharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1616 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20326,6 +20933,7 @@ var HappySharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HardwareChip.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1617 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20375,6 +20983,7 @@ var HardwareChip_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HardwareChipOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1618 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20390,6 +20999,7 @@ var HardwareChipOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HardwareChipSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1620 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20424,6 +21034,7 @@ var HardwareChipSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Headset.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1621 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20448,6 +21059,7 @@ var Headset_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HeadsetOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1622 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20502,6 +21114,7 @@ var HeadsetOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HeadsetSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1623 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20526,6 +21139,7 @@ var HeadsetSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Heart.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1624 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20550,6 +21164,7 @@ var Heart_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HeartCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1625 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20574,6 +21189,7 @@ var HeartCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HeartCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1626 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20611,6 +21227,7 @@ var HeartCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HeartCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1627 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20635,6 +21252,7 @@ var HeartCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HeartDislike.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1628 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20679,6 +21297,7 @@ var HeartDislike_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HeartDislikeCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1629 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20703,6 +21322,7 @@ var HeartDislikeCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HeartDislikeCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1630 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20760,6 +21380,7 @@ var HeartDislikeCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HeartDislikeCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1631 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20784,6 +21405,7 @@ var HeartDislikeCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HeartDislikeOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1632 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20828,6 +21450,7 @@ var HeartDislikeOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HeartDislikeSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1633 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20872,6 +21495,7 @@ var HeartDislikeSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HeartHalf.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1634 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20896,6 +21520,7 @@ var HeartHalf_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HeartHalfOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1635 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20920,6 +21545,7 @@ var HeartHalfOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HeartHalfSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1636 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20944,6 +21570,7 @@ var HeartHalfSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HeartOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1637 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20972,6 +21599,7 @@ var HeartOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HeartSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1638 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -20996,6 +21624,7 @@ var HeartSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Help.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1639 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21036,6 +21665,7 @@ var Help_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HelpBuoy.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1640 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21060,6 +21690,7 @@ var HelpBuoy_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HelpBuoyOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1641 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21075,6 +21706,7 @@ var HelpBuoyOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HelpBuoySharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1642 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21099,6 +21731,7 @@ var HelpBuoySharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HelpCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1643 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21123,6 +21756,7 @@ var HelpCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HelpCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1644 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21176,6 +21810,7 @@ var HelpCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HelpCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1645 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21210,6 +21845,7 @@ var HelpCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HelpOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1646 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21250,6 +21886,7 @@ var HelpOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HelpSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1647 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21293,6 +21930,7 @@ var HelpSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Home.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1648 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21327,6 +21965,7 @@ var Home_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HomeOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1649 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21383,6 +22022,7 @@ var HomeOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HomeSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1650 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21407,6 +22047,7 @@ var HomeSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Hourglass.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1651 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21431,6 +22072,7 @@ var Hourglass_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HourglassOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1652 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21469,6 +22111,7 @@ var HourglassOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/HourglassSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1653 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21493,6 +22136,7 @@ var HourglassSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/IceCream.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1654 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21527,6 +22171,7 @@ var IceCream_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/IceCreamOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1655 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21569,6 +22214,7 @@ var IceCreamOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/IceCreamSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1656 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21603,6 +22249,7 @@ var IceCreamSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/IdCard.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1657 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21627,6 +22274,7 @@ var IdCard_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/IdCardOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1658 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21692,6 +22340,7 @@ var IdCardOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/IdCardSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1659 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21716,6 +22365,7 @@ var IdCardSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Image.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1660 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21740,6 +22390,7 @@ var Image_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ImageOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1661 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21815,6 +22466,7 @@ var ImageOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ImageSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1662 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21839,6 +22491,7 @@ var ImageSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Images.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1663 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21873,6 +22526,7 @@ var Images_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ImagesOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1664 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21888,6 +22542,7 @@ var ImagesOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ImagesSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1665 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21935,6 +22590,7 @@ var ImagesSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Infinite.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1666 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -21977,6 +22633,7 @@ var Infinite_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/InfiniteOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1667 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22019,6 +22676,7 @@ var InfiniteOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/InfiniteSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1668 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22043,6 +22701,7 @@ var InfiniteSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Information.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1669 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22095,6 +22754,7 @@ var Information_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/InformationCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1670 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22119,6 +22779,7 @@ var InformationCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/InformationCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1671 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22184,6 +22845,7 @@ var InformationCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/InformationCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1672 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22208,6 +22870,7 @@ var InformationCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/InformationOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1673 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22260,6 +22923,7 @@ var InformationOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/InformationSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1674 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22312,6 +22976,7 @@ var InformationSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/InvertMode.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1675 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22361,6 +23026,7 @@ var InvertMode_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/InvertModeOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1676 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22410,6 +23076,7 @@ var InvertModeOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/InvertModeSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1677 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22444,6 +23111,7 @@ var InvertModeSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Journal.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1678 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22478,6 +23146,7 @@ var Journal_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/JournalOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1679 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22523,6 +23192,7 @@ var JournalOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/JournalSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1680 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22557,6 +23227,7 @@ var JournalSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Key.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1681 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22581,6 +23252,7 @@ var Key_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/KeyOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1682 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22608,6 +23280,7 @@ var KeyOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/KeySharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1683 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22632,6 +23305,7 @@ var KeySharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Keypad.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1684 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22647,6 +23321,7 @@ var Keypad_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/KeypadOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1685 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22662,6 +23337,7 @@ var KeypadOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/KeypadSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1686 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22677,6 +23353,7 @@ var KeypadSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Language.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1687 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22711,6 +23388,7 @@ var Language_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LanguageOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1688 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22726,6 +23404,7 @@ var LanguageOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LanguageSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1689 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22760,6 +23439,7 @@ var LanguageSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Laptop.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1690 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22784,6 +23464,7 @@ var Laptop_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LaptopOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1691 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22830,6 +23511,7 @@ var LaptopOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LaptopSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1692 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22854,6 +23536,7 @@ var LaptopSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Layers.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1693 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22898,6 +23581,7 @@ var Layers_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LayersOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1694 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22954,6 +23638,7 @@ var LayersOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LayersSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1695 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -22998,6 +23683,7 @@ var LayersSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Leaf.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1696 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23032,6 +23718,7 @@ var Leaf_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LeafOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1697 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23074,6 +23761,7 @@ var LeafOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LeafSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1698 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23108,6 +23796,7 @@ var LeafSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Library.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1699 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23123,6 +23812,7 @@ var Library_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LibraryOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1700 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23138,6 +23828,7 @@ var LibraryOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LibrarySharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1701 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23153,6 +23844,7 @@ var LibrarySharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Link.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1702 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23209,6 +23901,7 @@ var Link_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LinkOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1703 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23265,6 +23958,7 @@ var LinkOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LinkSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1704 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23321,6 +24015,7 @@ var LinkSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/List.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1705 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23336,6 +24031,7 @@ var List_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ListCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1706 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23360,6 +24056,7 @@ var ListCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ListCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1707 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23375,6 +24072,7 @@ var ListCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ListCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1708 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23399,6 +24097,7 @@ var ListCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ListOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1709 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23414,6 +24113,7 @@ var ListOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ListSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1710 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23429,6 +24129,7 @@ var ListSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Locate.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1711 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23444,6 +24145,7 @@ var Locate_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LocateOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1712 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23459,6 +24161,7 @@ var LocateOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LocateSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1713 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23474,6 +24177,7 @@ var LocateSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Location.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1714 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23510,6 +24214,7 @@ var Location_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LocationOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1715 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23554,6 +24259,7 @@ var LocationOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LocationSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1716 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23578,6 +24284,7 @@ var LocationSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LockClosed.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1717 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23602,6 +24309,7 @@ var LockClosed_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LockClosedOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1718 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23649,6 +24357,7 @@ var LockClosedOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LockClosedSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1719 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23673,6 +24382,7 @@ var LockClosedSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LockOpen.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1720 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23697,6 +24407,7 @@ var LockOpen_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LockOpenOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1721 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23744,6 +24455,7 @@ var LockOpenOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LockOpenSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1722 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23768,6 +24480,7 @@ var LockOpenSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogIn.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1723 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23802,6 +24515,7 @@ var LogIn_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogInOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1724 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23858,6 +24572,7 @@ var LogInOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogInSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1725 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23892,6 +24607,7 @@ var LogInSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogOut.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1726 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23926,6 +24642,7 @@ var LogOut_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogOutOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1727 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -23982,6 +24699,7 @@ var LogOutOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogOutSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1728 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24016,6 +24734,7 @@ var LogOutSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoAlipay.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1729 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24040,6 +24759,7 @@ var LogoAlipay_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoAmazon.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1730 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24084,6 +24804,7 @@ var LogoAmazon_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoAmplify.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1731 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24109,6 +24830,7 @@ var LogoAmplify_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoAndroid.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1732 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24133,6 +24855,7 @@ var LogoAndroid_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoAngular.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1733 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24167,6 +24890,7 @@ var LogoAngular_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoApple.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1734 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24201,6 +24925,7 @@ var LogoApple_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoAppleAppstore.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1735 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24225,6 +24950,7 @@ var LogoAppleAppstore_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoAppleAr.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1736 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24240,6 +24966,7 @@ var LogoAppleAr_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoBehance.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1737 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24294,6 +25021,7 @@ var LogoBehance_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoBitbucket.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1738 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24318,6 +25046,7 @@ var LogoBitbucket_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoBitcoin.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1739 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24342,6 +25071,7 @@ var LogoBitcoin_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoBuffer.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1740 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24386,6 +25116,7 @@ var LogoBuffer_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoCapacitor.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1741 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24420,6 +25151,7 @@ var LogoCapacitor_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoChrome.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1742 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24474,6 +25206,7 @@ var LogoChrome_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoClosedCaptioning.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1743 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24518,6 +25251,7 @@ var LogoClosedCaptioning_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoCodepen.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1744 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24533,6 +25267,7 @@ var LogoCodepen_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoCss3.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1745 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24557,6 +25292,7 @@ var LogoCss3_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoDesignernews.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1746 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24601,6 +25337,7 @@ var LogoDesignernews_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoDeviantart.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1747 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24625,6 +25362,7 @@ var LogoDeviantart_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoDiscord.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1748 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24669,6 +25407,7 @@ var LogoDiscord_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoDocker.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1749 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24684,6 +25423,7 @@ var LogoDocker_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoDribbble.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1750 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24708,6 +25448,7 @@ var LogoDribbble_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoDropbox.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1751 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24732,6 +25473,7 @@ var LogoDropbox_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoEdge.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1752 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24756,6 +25498,7 @@ var LogoEdge_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoElectron.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1753 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24771,6 +25514,7 @@ var LogoElectron_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoEuro.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1754 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24795,6 +25539,7 @@ var LogoEuro_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoFacebook.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1755 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24820,6 +25565,7 @@ var LogoFacebook_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoFigma.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1756 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24856,6 +25602,7 @@ var LogoFigma_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoFirebase.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1757 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24880,6 +25627,7 @@ var LogoFirebase_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoFirefox.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1758 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24904,6 +25652,7 @@ var LogoFirefox_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoFlickr.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1759 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24928,6 +25677,7 @@ var LogoFlickr_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoFoursquare.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1760 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24952,6 +25702,7 @@ var LogoFoursquare_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoGithub.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1761 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -24976,6 +25727,7 @@ var LogoGithub_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoGitlab.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1762 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25000,6 +25752,7 @@ var LogoGitlab_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoGoogle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1763 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25024,6 +25777,7 @@ var LogoGoogle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoGooglePlaystore.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1764 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25078,6 +25832,7 @@ var LogoGooglePlaystore_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoHackernews.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1765 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25102,6 +25857,7 @@ var LogoHackernews_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoHtml5.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1766 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25126,6 +25882,7 @@ var LogoHtml5_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoInstagram.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1767 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25170,6 +25927,7 @@ var LogoInstagram_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoIonic.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1768 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25216,6 +25974,7 @@ var LogoIonic_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoIonitron.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1769 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25250,6 +26009,7 @@ var LogoIonitron_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoJavascript.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1770 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25274,6 +26034,7 @@ var LogoJavascript_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoLaravel.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1771 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25298,6 +26059,7 @@ var LogoLaravel_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoLinkedin.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1772 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25322,6 +26084,7 @@ var LogoLinkedin_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoMarkdown.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1773 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25346,6 +26109,7 @@ var LogoMarkdown_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoMastodon.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1774 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25370,6 +26134,7 @@ var LogoMastodon_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoMedium.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1775 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25394,6 +26159,7 @@ var LogoMedium_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoMicrosoft.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1776 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25448,6 +26214,7 @@ var LogoMicrosoft_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoNoSmoking.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1777 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25463,6 +26230,7 @@ var LogoNoSmoking_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoNodejs.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1778 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25497,6 +26265,7 @@ var LogoNodejs_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoNpm.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1779 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25531,6 +26300,7 @@ var LogoNpm_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoOctocat.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1780 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25575,6 +26345,7 @@ var LogoOctocat_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoPaypal.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1781 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25609,6 +26380,7 @@ var LogoPaypal_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoPinterest.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1782 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25633,6 +26405,7 @@ var LogoPinterest_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoPlaystation.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1783 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25677,6 +26450,7 @@ var LogoPlaystation_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoPwa.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1784 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25711,6 +26485,7 @@ var LogoPwa_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoPython.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1785 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25745,6 +26520,7 @@ var LogoPython_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoReact.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1786 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25779,6 +26555,7 @@ var LogoReact_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoReddit.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1787 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25836,6 +26613,7 @@ var LogoReddit_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoRss.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1788 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25880,6 +26658,7 @@ var LogoRss_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoSass.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1789 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25904,6 +26683,7 @@ var LogoSass_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoSkype.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1790 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25928,6 +26708,7 @@ var LogoSkype_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoSlack.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1791 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25943,6 +26724,7 @@ var LogoSlack_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoSnapchat.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1792 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25967,6 +26749,7 @@ var LogoSnapchat_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoSoundcloud.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1793 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -25982,6 +26765,7 @@ var LogoSoundcloud_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoStackoverflow.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1794 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26016,6 +26800,7 @@ var LogoStackoverflow_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoSteam.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1795 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26040,6 +26825,7 @@ var LogoSteam_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoStencil.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1796 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26084,6 +26870,7 @@ var LogoStencil_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoTableau.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1797 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26099,6 +26886,7 @@ var LogoTableau_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoTiktok.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1798 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26123,6 +26911,7 @@ var LogoTiktok_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoTumblr.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1799 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26147,6 +26936,7 @@ var LogoTumblr_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoTux.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1800 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26171,6 +26961,7 @@ var LogoTux_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoTwitch.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1801 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26215,6 +27006,7 @@ var LogoTwitch_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoTwitter.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1802 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26239,6 +27031,7 @@ var LogoTwitter_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoUsd.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1803 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26263,6 +27056,7 @@ var LogoUsd_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoVenmo.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1804 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26287,6 +27081,7 @@ var LogoVenmo_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoVercel.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1805 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26312,6 +27107,7 @@ var LogoVercel_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoVimeo.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1806 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26336,6 +27132,7 @@ var LogoVimeo_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoVk.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1807 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26361,6 +27158,7 @@ var LogoVk_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoVue.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1808 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26395,6 +27193,7 @@ var LogoVue_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoWebComponent.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1809 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26410,6 +27209,7 @@ var LogoWebComponent_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoWechat.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1810 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26446,6 +27246,7 @@ var LogoWechat_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoWhatsapp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1811 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26471,6 +27272,7 @@ var LogoWhatsapp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoWindows.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1812 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26525,6 +27327,7 @@ var LogoWindows_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoWordpress.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1813 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26579,6 +27382,7 @@ var LogoWordpress_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoXbox.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1814 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26633,6 +27437,7 @@ var LogoXbox_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoXing.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1815 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26667,6 +27472,7 @@ var LogoXing_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoYahoo.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1816 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26691,6 +27497,7 @@ var LogoYahoo_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoYen.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1817 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26715,6 +27522,7 @@ var LogoYen_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/LogoYoutube.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1818 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26739,6 +27547,7 @@ var LogoYoutube_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Magnet.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1819 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26754,6 +27563,7 @@ var Magnet_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MagnetOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1820 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26769,6 +27579,7 @@ var MagnetOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MagnetSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1821 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26784,6 +27595,7 @@ var MagnetSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Mail.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1822 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26808,6 +27620,7 @@ var Mail_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MailOpen.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1823 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26832,6 +27645,7 @@ var MailOpen_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MailOpenOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1824 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26902,6 +27716,7 @@ var MailOpenOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MailOpenSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1825 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26926,6 +27741,7 @@ var MailOpenSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MailOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1826 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26973,6 +27789,7 @@ var MailOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MailSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1827 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -26997,6 +27814,7 @@ var MailSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MailUnread.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1828 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27031,6 +27849,7 @@ var MailUnread_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MailUnreadOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1829 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27095,6 +27914,7 @@ var MailUnreadOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MailUnreadSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1830 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27129,6 +27949,7 @@ var MailUnreadSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Male.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1831 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27153,6 +27974,7 @@ var Male_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MaleFemale.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1832 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27177,6 +27999,7 @@ var MaleFemale_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MaleFemaleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1833 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27192,6 +28015,7 @@ var MaleFemaleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MaleFemaleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1834 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27216,6 +28040,7 @@ var MaleFemaleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MaleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1835 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27274,6 +28099,7 @@ var MaleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MaleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1836 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27298,6 +28124,7 @@ var MaleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Man.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1837 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27334,6 +28161,7 @@ var Man_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ManOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1838 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27406,6 +28234,7 @@ var ManOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ManSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1839 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27442,6 +28271,7 @@ var ManSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Map.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1840 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27486,6 +28316,7 @@ var Map_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MapOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1841 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27542,6 +28373,7 @@ var MapOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MapSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1842 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27566,6 +28398,7 @@ var MapSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Medal.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1843 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27612,6 +28445,7 @@ var Medal_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MedalOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1844 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27627,6 +28461,7 @@ var MedalOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MedalSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1845 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27673,6 +28508,7 @@ var MedalSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Medical.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1846 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27697,6 +28533,7 @@ var Medical_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MedicalOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1847 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27725,6 +28562,7 @@ var MedicalOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MedicalSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1848 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27749,6 +28587,7 @@ var MedicalSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Medkit.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1849 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27783,6 +28622,7 @@ var Medkit_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MedkitOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1850 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27857,6 +28697,7 @@ var MedkitOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MedkitSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1851 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27891,6 +28732,7 @@ var MedkitSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Megaphone.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1852 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27935,6 +28777,7 @@ var Megaphone_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MegaphoneOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1853 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27950,6 +28793,7 @@ var MegaphoneOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MegaphoneSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1854 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -27994,6 +28838,7 @@ var MegaphoneSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Menu.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1855 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28050,6 +28895,7 @@ var Menu_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MenuOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1856 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28106,6 +28952,7 @@ var MenuOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MenuSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1857 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28130,6 +28977,7 @@ var MenuSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Mic.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1858 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28196,6 +29044,7 @@ var Mic_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MicCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1859 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28220,6 +29069,7 @@ var MicCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MicCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1860 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28235,6 +29085,7 @@ var MicCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MicCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1861 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28259,6 +29110,7 @@ var MicCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MicOff.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1862 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28274,6 +29126,7 @@ var MicOff_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MicOffCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1863 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28298,6 +29151,7 @@ var MicOffCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MicOffCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1864 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28313,6 +29167,7 @@ var MicOffCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MicOffCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1865 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28337,6 +29192,7 @@ var MicOffCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MicOffOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1866 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28352,6 +29208,7 @@ var MicOffOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MicOffSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1867 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28367,6 +29224,7 @@ var MicOffSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MicOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1868 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28437,6 +29295,7 @@ var MicOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MicSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1869 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28503,6 +29362,7 @@ var MicSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Moon.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1870 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28527,6 +29387,7 @@ var Moon_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MoonOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1871 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28555,6 +29416,7 @@ var MoonOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MoonSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1872 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28579,6 +29441,7 @@ var MoonSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Move.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1873 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28594,6 +29457,7 @@ var Move_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MoveOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1874 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28609,6 +29473,7 @@ var MoveOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MoveSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1875 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28624,6 +29489,7 @@ var MoveSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MusicalNote.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1876 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28648,6 +29514,7 @@ var MusicalNote_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MusicalNoteOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1877 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28676,6 +29543,7 @@ var MusicalNoteOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MusicalNoteSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1878 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28700,6 +29568,7 @@ var MusicalNoteSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MusicalNotes.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1879 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28724,6 +29593,7 @@ var MusicalNotes_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MusicalNotesOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1880 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28766,6 +29636,7 @@ var MusicalNotesOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/MusicalNotesSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1881 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28790,6 +29661,7 @@ var MusicalNotesSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Navigate.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1882 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28814,6 +29686,7 @@ var Navigate_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/NavigateCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1883 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28838,6 +29711,7 @@ var NavigateCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/NavigateCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1884 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28875,6 +29749,7 @@ var NavigateCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/NavigateCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1885 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28899,6 +29774,7 @@ var NavigateCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/NavigateOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1886 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28927,6 +29803,7 @@ var NavigateOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/NavigateSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1887 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28951,6 +29828,7 @@ var NavigateSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Newspaper.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1888 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -28985,6 +29863,7 @@ var Newspaper_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/NewspaperOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1889 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29000,6 +29879,7 @@ var NewspaperOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/NewspaperSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1890 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29049,6 +29929,7 @@ var NewspaperSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Notifications.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1891 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29083,6 +29964,7 @@ var Notifications_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/NotificationsCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1892 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29107,6 +29989,7 @@ var NotificationsCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/NotificationsCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1893 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29154,6 +30037,7 @@ var NotificationsCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/NotificationsCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1894 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29208,6 +30092,7 @@ var NotificationsCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/NotificationsOff.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1895 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29262,6 +30147,7 @@ var NotificationsOff_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/NotificationsOffCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1896 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29286,6 +30172,7 @@ var NotificationsOffCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/NotificationsOffCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1897 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29301,6 +30188,7 @@ var NotificationsOffCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/NotificationsOffCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1898 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29325,6 +30213,7 @@ var NotificationsOffCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/NotificationsOffOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1899 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29395,6 +30284,7 @@ var NotificationsOffOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/NotificationsOffSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1900 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29449,6 +30339,7 @@ var NotificationsOffSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/NotificationsOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1901 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29491,6 +30382,7 @@ var NotificationsOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/NotificationsSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1902 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29525,6 +30417,7 @@ var NotificationsSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Nuclear.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1903 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29549,6 +30442,7 @@ var Nuclear_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/NuclearOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1904 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29564,6 +30458,7 @@ var NuclearOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/NuclearSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1905 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29610,6 +30505,7 @@ var NuclearSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Nutrition.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1906 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29644,6 +30540,7 @@ var Nutrition_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/NutritionOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1907 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29707,6 +30604,7 @@ var NutritionOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/NutritionSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1908 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29741,6 +30639,7 @@ var NutritionSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Open.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1909 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29775,6 +30674,7 @@ var Open_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/OpenOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1910 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29831,6 +30731,7 @@ var OpenOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/OpenSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1911 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29865,6 +30766,7 @@ var OpenSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Options.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1912 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29909,6 +30811,7 @@ var Options_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/OptionsOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1913 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29924,6 +30827,7 @@ var OptionsOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/OptionsSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1914 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29968,6 +30872,7 @@ var OptionsSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PaperPlane.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1915 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -29992,6 +30897,7 @@ var PaperPlane_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PaperPlaneOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1916 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30034,6 +30940,7 @@ var PaperPlaneOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PaperPlaneSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1917 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30058,6 +30965,7 @@ var PaperPlaneSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PartlySunny.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1918 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30073,6 +30981,7 @@ var PartlySunny_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PartlySunnyOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1919 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30088,6 +30997,7 @@ var PartlySunnyOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PartlySunnySharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1920 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30103,6 +31013,7 @@ var PartlySunnySharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Pause.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1921 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30137,6 +31048,7 @@ var Pause_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PauseCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1922 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30161,6 +31073,7 @@ var PauseCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PauseCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1923 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30216,6 +31129,7 @@ var PauseCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PauseCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1924 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30240,6 +31154,7 @@ var PauseCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PauseOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1925 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30282,6 +31197,7 @@ var PauseOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PauseSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1926 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30316,6 +31232,7 @@ var PauseSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Paw.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1927 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30331,6 +31248,7 @@ var Paw_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PawOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1928 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30346,6 +31264,7 @@ var PawOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PawSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1929 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30361,6 +31280,7 @@ var PawSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Pencil.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1930 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30403,6 +31323,7 @@ var Pencil_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PencilOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1931 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30445,6 +31366,7 @@ var PencilOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PencilSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1932 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30479,6 +31401,7 @@ var PencilSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/People.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1933 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30533,6 +31456,7 @@ var People_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PeopleCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1934 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30548,6 +31472,7 @@ var PeopleCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PeopleCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1935 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30563,6 +31488,7 @@ var PeopleCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PeopleCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1936 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30587,6 +31513,7 @@ var PeopleCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PeopleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1937 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30656,6 +31583,7 @@ var PeopleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PeopleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1938 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30714,6 +31642,7 @@ var PeopleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Person.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1939 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30748,6 +31677,7 @@ var Person_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PersonAdd.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1940 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30792,6 +31722,7 @@ var PersonAdd_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PersonAddOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1941 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30861,6 +31792,7 @@ var PersonAddOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PersonAddSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1942 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30907,6 +31839,7 @@ var PersonAddSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PersonCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1943 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30931,6 +31864,7 @@ var PersonCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PersonCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1944 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30965,6 +31899,7 @@ var PersonCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PersonCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1945 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -30989,6 +31924,7 @@ var PersonCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PersonOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1946 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31030,6 +31966,7 @@ var PersonOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PersonRemove.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1947 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31074,6 +32011,7 @@ var PersonRemove_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PersonRemoveOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1948 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31129,6 +32067,7 @@ var PersonRemoveOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PersonRemoveSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1949 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31175,6 +32114,7 @@ var PersonRemoveSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PersonSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1950 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31199,6 +32139,7 @@ var PersonSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PhoneLandscape.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1951 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31243,6 +32184,7 @@ var PhoneLandscape_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PhoneLandscapeOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1952 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31291,6 +32233,7 @@ var PhoneLandscapeOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PhoneLandscapeSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1953 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31315,6 +32258,7 @@ var PhoneLandscapeSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PhonePortrait.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1954 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31359,6 +32303,7 @@ var PhonePortrait_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PhonePortraitOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1955 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31406,6 +32351,7 @@ var PhonePortraitOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PhonePortraitSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1956 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31430,6 +32376,7 @@ var PhonePortraitSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PieChart.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1957 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31464,6 +32411,7 @@ var PieChart_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PieChartOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1958 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31506,6 +32454,7 @@ var PieChartOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PieChartSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1959 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31540,6 +32489,7 @@ var PieChartSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Pin.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1960 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31564,6 +32514,7 @@ var Pin_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PinOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1961 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31616,6 +32567,7 @@ var PinOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PinSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1962 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31640,6 +32592,7 @@ var PinSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Pint.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1963 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31664,6 +32617,7 @@ var Pint_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PintOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1964 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31706,6 +32660,7 @@ var PintOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PintSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1965 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31730,6 +32685,7 @@ var PintSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Pizza.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1966 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31764,6 +32720,7 @@ var Pizza_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PizzaOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1967 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31779,6 +32736,7 @@ var PizzaOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PizzaSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1968 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31794,6 +32752,7 @@ var PizzaSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Planet.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1969 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31828,6 +32787,7 @@ var Planet_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlanetOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1970 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31870,6 +32830,7 @@ var PlanetOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlanetSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1971 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31904,6 +32865,7 @@ var PlanetSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Play.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1972 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31928,6 +32890,7 @@ var Play_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlayBack.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1973 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31952,6 +32915,7 @@ var PlayBack_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlayBackCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1974 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -31976,6 +32940,7 @@ var PlayBackCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlayBackCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1975 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32013,6 +32978,7 @@ var PlayBackCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlayBackCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1976 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32037,6 +33003,7 @@ var PlayBackCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlayBackOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1977 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32077,6 +33044,7 @@ var PlayBackOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlayBackSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1978 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32111,6 +33079,7 @@ var PlayBackSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlayCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1979 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32135,6 +33104,7 @@ var PlayCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlayCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1980 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32172,6 +33142,7 @@ var PlayCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlayCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1981 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32196,6 +33167,7 @@ var PlayCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlayForward.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1982 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32220,6 +33192,7 @@ var PlayForward_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlayForwardCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1983 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32244,6 +33217,7 @@ var PlayForwardCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlayForwardCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1984 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32281,6 +33255,7 @@ var PlayForwardCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlayForwardCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1985 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32305,6 +33280,7 @@ var PlayForwardCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlayForwardOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1986 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32345,6 +33321,7 @@ var PlayForwardOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlayForwardSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1987 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32379,6 +33356,7 @@ var PlayForwardSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlayOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1988 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32406,6 +33384,7 @@ var PlayOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlaySharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1989 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32430,6 +33409,7 @@ var PlaySharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlaySkipBack.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1990 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32454,6 +33434,7 @@ var PlaySkipBack_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlaySkipBackCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1991 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32478,6 +33459,7 @@ var PlaySkipBackCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlaySkipBackCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1992 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32515,6 +33497,7 @@ var PlaySkipBackCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlaySkipBackCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1993 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32539,6 +33522,7 @@ var PlaySkipBackCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlaySkipBackOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1994 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32580,6 +33564,7 @@ var PlaySkipBackOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlaySkipBackSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1995 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32604,6 +33589,7 @@ var PlaySkipBackSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlaySkipForward.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1996 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32628,6 +33614,7 @@ var PlaySkipForward_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlaySkipForwardCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1997 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32652,6 +33639,7 @@ var PlaySkipForwardCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlaySkipForwardCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1998 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32689,6 +33677,7 @@ var PlaySkipForwardCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlaySkipForwardCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_1999 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32713,6 +33702,7 @@ var PlaySkipForwardCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlaySkipForwardOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11000 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32754,6 +33744,7 @@ var PlaySkipForwardOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PlaySkipForwardSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11001 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32778,6 +33769,7 @@ var PlaySkipForwardSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Podium.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11002 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32822,6 +33814,7 @@ var Podium_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PodiumOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11003 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32878,6 +33871,7 @@ var PodiumOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PodiumSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11004 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32922,6 +33916,7 @@ var PodiumSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Power.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11005 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32956,6 +33951,7 @@ var Power_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PowerOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11006 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -32998,6 +33994,7 @@ var PowerOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PowerSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11007 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33032,6 +34029,7 @@ var PowerSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Pricetag.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11008 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33056,6 +34054,7 @@ var Pricetag_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PricetagOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11009 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33094,6 +34093,7 @@ var PricetagOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PricetagSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11010 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33118,6 +34118,7 @@ var PricetagSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Pricetags.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11011 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33152,6 +34153,7 @@ var Pricetags_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PricetagsOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11012 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33204,6 +34206,7 @@ var PricetagsOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PricetagsSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11013 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33238,6 +34241,7 @@ var PricetagsSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Print.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11014 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33272,6 +34276,7 @@ var Print_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PrintOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11015 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33342,6 +34347,7 @@ var PrintOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PrintSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11016 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33406,6 +34412,7 @@ var PrintSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Prism.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11017 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33430,6 +34437,7 @@ var Prism_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PrismOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11018 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33472,6 +34480,7 @@ var PrismOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PrismSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11019 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33496,6 +34505,7 @@ var PrismSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Pulse.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11020 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33520,6 +34530,7 @@ var Pulse_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PulseOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11021 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33564,6 +34575,7 @@ var PulseOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PulseSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11022 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33588,6 +34600,7 @@ var PulseSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Push.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11023 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33622,6 +34635,7 @@ var Push_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PushOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11024 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33678,6 +34692,7 @@ var PushOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/PushSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11025 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33712,6 +34727,7 @@ var PushSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/QrCode.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11026 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33727,6 +34743,7 @@ var QrCode_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/QrCodeOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11027 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33742,6 +34759,7 @@ var QrCodeOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/QrCodeSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11028 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33757,6 +34775,7 @@ var QrCodeSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Radio.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11029 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33772,6 +34791,7 @@ var Radio_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RadioButtonOff.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11030 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33799,6 +34819,7 @@ var RadioButtonOff_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RadioButtonOffOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11031 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33826,6 +34847,7 @@ var RadioButtonOffOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RadioButtonOffSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11032 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33853,6 +34875,7 @@ var RadioButtonOffSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RadioButtonOn.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11033 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33892,6 +34915,7 @@ var RadioButtonOn_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RadioButtonOnOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11034 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33931,6 +34955,7 @@ var RadioButtonOnOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RadioButtonOnSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11035 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33970,6 +34995,7 @@ var RadioButtonOnSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RadioOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11036 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -33985,6 +35011,7 @@ var RadioOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RadioSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11037 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34000,6 +35027,7 @@ var RadioSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Rainy.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11038 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34015,6 +35043,7 @@ var Rainy_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RainyOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11039 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34030,6 +35059,7 @@ var RainyOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RainySharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11040 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34045,6 +35075,7 @@ var RainySharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Reader.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11041 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34069,6 +35100,7 @@ var Reader_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReaderOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11042 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34143,6 +35175,7 @@ var ReaderOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReaderSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11043 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34167,6 +35200,7 @@ var ReaderSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Receipt.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11044 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34201,6 +35235,7 @@ var Receipt_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReceiptOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11045 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34269,6 +35304,7 @@ var ReceiptOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReceiptSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11046 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34303,6 +35339,7 @@ var ReceiptSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Recording.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11047 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34327,6 +35364,7 @@ var Recording_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RecordingOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11048 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34387,6 +35425,7 @@ var RecordingOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RecordingSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11049 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34411,6 +35450,7 @@ var RecordingSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Refresh.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11050 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34453,6 +35493,7 @@ var Refresh_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RefreshCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11051 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34477,6 +35518,7 @@ var RefreshCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RefreshCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11052 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34532,6 +35574,7 @@ var RefreshCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RefreshCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11053 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34556,6 +35599,7 @@ var RefreshCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RefreshOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11054 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34598,6 +35642,7 @@ var RefreshOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RefreshSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11055 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34640,6 +35685,7 @@ var RefreshSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Reload.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11056 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34678,6 +35724,7 @@ var Reload_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReloadCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11057 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34702,6 +35749,7 @@ var ReloadCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReloadCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11058 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34753,6 +35801,7 @@ var ReloadCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReloadCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11059 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34777,6 +35826,7 @@ var ReloadCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReloadOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11060 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34815,6 +35865,7 @@ var ReloadOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReloadSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11061 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34853,6 +35904,7 @@ var ReloadSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Remove.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11062 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34881,6 +35933,7 @@ var Remove_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RemoveCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11063 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34905,6 +35958,7 @@ var RemoveCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RemoveCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11064 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34946,6 +36000,7 @@ var RemoveCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RemoveCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11065 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34970,6 +36025,7 @@ var RemoveCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RemoveOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11066 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -34998,6 +36054,7 @@ var RemoveOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RemoveSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11067 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -35026,6 +36083,7 @@ var RemoveSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReorderFour.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11068 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -35096,6 +36154,7 @@ var ReorderFour_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReorderFourOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11069 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -35166,6 +36225,7 @@ var ReorderFourOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReorderFourSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11070 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -35236,6 +36296,7 @@ var ReorderFourSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReorderThree.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11071 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -35292,6 +36353,7 @@ var ReorderThree_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReorderThreeOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11072 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -35348,6 +36410,7 @@ var ReorderThreeOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReorderThreeSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11073 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -35404,6 +36467,7 @@ var ReorderThreeSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReorderTwo.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11074 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -35446,6 +36510,7 @@ var ReorderTwo_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReorderTwoOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11075 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -35488,6 +36553,7 @@ var ReorderTwoOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReorderTwoSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11076 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -35530,6 +36596,7 @@ var ReorderTwoSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Repeat.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11077 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -35600,6 +36667,7 @@ var Repeat_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RepeatOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11078 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -35670,6 +36738,7 @@ var RepeatOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RepeatSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11079 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -35740,6 +36809,7 @@ var RepeatSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Resize.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11080 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -35796,6 +36866,7 @@ var Resize_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ResizeOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11081 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -35852,6 +36923,7 @@ var ResizeOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ResizeSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11082 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -35908,6 +36980,7 @@ var ResizeSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Restaurant.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11083 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -35942,6 +37015,7 @@ var Restaurant_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RestaurantOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11084 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -35957,6 +37031,7 @@ var RestaurantOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RestaurantSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11085 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -35991,6 +37066,7 @@ var RestaurantSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReturnDownBack.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11086 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -36033,6 +37109,7 @@ var ReturnDownBack_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReturnDownBackOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11087 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -36075,6 +37152,7 @@ var ReturnDownBackOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReturnDownBackSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11088 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -36117,6 +37195,7 @@ var ReturnDownBackSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReturnDownForward.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11089 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -36159,6 +37238,7 @@ var ReturnDownForward_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReturnDownForwardOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11090 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -36201,6 +37281,7 @@ var ReturnDownForwardOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReturnDownForwardSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11091 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -36243,6 +37324,7 @@ var ReturnDownForwardSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReturnUpBack.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11092 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -36285,6 +37367,7 @@ var ReturnUpBack_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReturnUpBackOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11093 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -36327,6 +37410,7 @@ var ReturnUpBackOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReturnUpBackSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11094 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -36369,6 +37453,7 @@ var ReturnUpBackSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReturnUpForward.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11095 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -36411,6 +37496,7 @@ var ReturnUpForward_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReturnUpForwardOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11096 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -36453,6 +37539,7 @@ var ReturnUpForwardOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ReturnUpForwardSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11097 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -36495,6 +37582,7 @@ var ReturnUpForwardSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Ribbon.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11098 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -36552,6 +37640,7 @@ var Ribbon_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RibbonOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11099 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -36626,6 +37715,7 @@ var RibbonOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RibbonSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11105 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -36682,6 +37772,7 @@ var RibbonSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Rocket.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11106 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -36726,6 +37817,7 @@ var Rocket_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RocketOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11107 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -36768,6 +37860,7 @@ var RocketOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RocketSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11108 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -36802,6 +37895,7 @@ var RocketSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Rose.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11109 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -36856,6 +37950,7 @@ var Rose_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RoseOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11110 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -36926,6 +38021,7 @@ var RoseOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/RoseSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11111 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -36980,6 +38076,7 @@ var RoseSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Sad.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11112 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37004,6 +38101,7 @@ var Sad_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SadOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11113 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37067,6 +38165,7 @@ var SadOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SadSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11114 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37091,6 +38190,7 @@ var SadSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Save.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11115 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37127,6 +38227,7 @@ var Save_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SaveOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11116 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37155,6 +38256,7 @@ var SaveOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SaveSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11117 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37179,6 +38281,7 @@ var SaveSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Scale.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11118 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37203,6 +38306,7 @@ var Scale_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ScaleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11119 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37247,6 +38351,7 @@ var ScaleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ScaleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11120 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37271,6 +38376,7 @@ var ScaleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Scan.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11121 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37341,6 +38447,7 @@ var Scan_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ScanCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11122 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37365,6 +38472,7 @@ var ScanCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ScanCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11123 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37380,6 +38488,7 @@ var ScanCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ScanCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11124 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37404,6 +38513,7 @@ var ScanCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ScanOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11125 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37474,6 +38584,7 @@ var ScanOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ScanSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11126 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37528,6 +38639,7 @@ var ScanSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/School.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11127 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37562,6 +38674,7 @@ var School_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SchoolOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11128 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37632,6 +38745,7 @@ var SchoolOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SchoolSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11129 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37666,6 +38780,7 @@ var SchoolSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Search.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11130 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37690,6 +38805,7 @@ var Search_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SearchCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11131 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37726,6 +38842,7 @@ var SearchCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SearchCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11132 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37780,6 +38897,7 @@ var SearchCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SearchCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11133 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37816,6 +38934,7 @@ var SearchCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SearchOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11134 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37857,6 +38976,7 @@ var SearchOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SearchSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11135 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37881,6 +39001,7 @@ var SearchSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Send.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11136 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37905,6 +39026,7 @@ var Send_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SendOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11137 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37933,6 +39055,7 @@ var SendOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SendSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11138 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -37957,6 +39080,7 @@ var SendSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Server.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11139 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38011,6 +39135,7 @@ var Server_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ServerOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11140 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38084,6 +39209,7 @@ var ServerOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ServerSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11141 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38138,6 +39264,7 @@ var ServerSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Settings.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11142 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38174,6 +39301,7 @@ var Settings_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SettingsOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11143 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38202,6 +39330,7 @@ var SettingsOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SettingsSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11144 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38226,6 +39355,7 @@ var SettingsSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Shapes.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11145 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38260,6 +39390,7 @@ var Shapes_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ShapesOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11146 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38300,6 +39431,7 @@ var ShapesOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ShapesSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11147 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38334,6 +39466,7 @@ var ShapesSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Share.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11148 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38368,6 +39501,7 @@ var Share_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ShareOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11149 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38424,6 +39558,7 @@ var ShareOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ShareSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11150 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38458,6 +39593,7 @@ var ShareSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ShareSocial.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11151 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38482,6 +39618,7 @@ var ShareSocial_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ShareSocialOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11152 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38497,6 +39634,7 @@ var ShareSocialOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ShareSocialSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11153 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38521,6 +39659,7 @@ var ShareSocialSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Shield.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11154 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38545,6 +39684,7 @@ var Shield_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ShieldCheckmark.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11155 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38569,6 +39709,7 @@ var ShieldCheckmark_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ShieldCheckmarkOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11156 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38611,6 +39752,7 @@ var ShieldCheckmarkOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ShieldCheckmarkSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11157 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38635,6 +39777,7 @@ var ShieldCheckmarkSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ShieldHalf.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11158 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38673,6 +39816,7 @@ var ShieldHalf_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ShieldHalfOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11159 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38711,6 +39855,7 @@ var ShieldHalfOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ShieldHalfSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11160 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38735,6 +39880,7 @@ var ShieldHalfSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ShieldOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11161 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38763,6 +39909,7 @@ var ShieldOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ShieldSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11162 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38787,6 +39934,7 @@ var ShieldSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Shirt.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11163 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38821,6 +39969,7 @@ var Shirt_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ShirtOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11164 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38863,6 +40012,7 @@ var ShirtOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ShirtSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11165 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38897,6 +40047,7 @@ var ShirtSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Shuffle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11166 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38912,6 +40063,7 @@ var Shuffle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ShuffleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11167 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38927,6 +40079,7 @@ var ShuffleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ShuffleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11168 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38942,6 +40095,7 @@ var ShuffleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Skull.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11169 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38966,6 +40120,7 @@ var Skull_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SkullOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11170 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -38981,6 +40136,7 @@ var SkullOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SkullSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11171 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39005,6 +40161,7 @@ var SkullSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Snow.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11172 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39029,6 +40186,7 @@ var Snow_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SnowOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11173 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39044,6 +40202,7 @@ var SnowOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SnowSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11175 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39068,6 +40227,7 @@ var SnowSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Sparkles.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11176 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39112,6 +40272,7 @@ var Sparkles_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SparklesOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11177 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39168,6 +40329,7 @@ var SparklesOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SparklesSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11178 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39212,6 +40374,7 @@ var SparklesSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Speedometer.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11179 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39236,6 +40399,7 @@ var Speedometer_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SpeedometerOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11180 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39251,6 +40415,7 @@ var SpeedometerOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SpeedometerSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11181 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39275,6 +40440,7 @@ var SpeedometerSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Square.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11182 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39299,6 +40465,7 @@ var Square_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SquareOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11183 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39327,6 +40494,7 @@ var SquareOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SquareSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11184 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39351,6 +40519,7 @@ var SquareSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Star.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11185 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39375,6 +40544,7 @@ var Star_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/StarHalf.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11186 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39412,6 +40582,7 @@ var StarHalf_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/StarHalfOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11187 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39449,6 +40620,7 @@ var StarHalfOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/StarHalfSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11188 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39473,6 +40645,7 @@ var StarHalfSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/StarOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11189 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39500,6 +40673,7 @@ var StarOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/StarSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11190 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39524,6 +40698,7 @@ var StarSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/StatsChart.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11191 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39578,6 +40753,7 @@ var StatsChart_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/StatsChartOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11192 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39668,6 +40844,7 @@ var StatsChartOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/StatsChartSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11193 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39722,6 +40899,7 @@ var StatsChartSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Stop.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11194 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39746,6 +40924,7 @@ var Stop_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/StopCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11195 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39770,6 +40949,7 @@ var StopCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/StopCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11196 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39807,6 +40987,7 @@ var StopCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/StopCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11197 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39831,6 +41012,7 @@ var StopCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/StopOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11198 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39863,6 +41045,7 @@ var StopOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/StopSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11199 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39887,6 +41070,7 @@ var StopSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Stopwatch.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11200 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39923,6 +41107,7 @@ var Stopwatch_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/StopwatchOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11201 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39938,6 +41123,7 @@ var StopwatchOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/StopwatchSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11202 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39962,6 +41148,7 @@ var StopwatchSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Storefront.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11203 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -39996,6 +41183,7 @@ var Storefront_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/StorefrontOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11204 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -40011,6 +41199,7 @@ var StorefrontOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/StorefrontSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11205 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -40045,6 +41234,7 @@ var StorefrontSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Subway.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11206 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -40079,6 +41269,7 @@ var Subway_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SubwayOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11207 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -40094,6 +41285,7 @@ var SubwayOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SubwaySharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11208 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -40128,6 +41320,7 @@ var SubwaySharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Sunny.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11209 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -40143,6 +41336,7 @@ var Sunny_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SunnyOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11211 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -40158,6 +41352,7 @@ var SunnyOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SunnySharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11213 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -40173,6 +41368,7 @@ var SunnySharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SwapHorizontal.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11215 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -40243,6 +41439,7 @@ var SwapHorizontal_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SwapHorizontalOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11216 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -40313,6 +41510,7 @@ var SwapHorizontalOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SwapHorizontalSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11217 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -40383,6 +41581,7 @@ var SwapHorizontalSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SwapVertical.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11218 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -40453,6 +41652,7 @@ var SwapVertical_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SwapVerticalOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11219 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -40523,6 +41723,7 @@ var SwapVerticalOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SwapVerticalSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11220 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -40593,6 +41794,7 @@ var SwapVerticalSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Sync.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11221 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -40649,6 +41851,7 @@ var Sync_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SyncCircle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11222 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -40673,6 +41876,7 @@ var SyncCircle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SyncCircleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11223 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -40742,6 +41946,7 @@ var SyncCircleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SyncCircleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11224 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -40766,6 +41971,7 @@ var SyncCircleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SyncOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11225 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -40822,6 +42028,7 @@ var SyncOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/SyncSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11226 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -40878,6 +42085,7 @@ var SyncSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TabletLandscape.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11227 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -40912,6 +42120,7 @@ var TabletLandscape_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TabletLandscapeOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11228 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -40946,6 +42155,7 @@ var TabletLandscapeOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TabletLandscapeSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11229 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -40970,6 +42180,7 @@ var TabletLandscapeSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TabletPortrait.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11230 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41004,6 +42215,7 @@ var TabletPortrait_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TabletPortraitOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11231 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41037,6 +42249,7 @@ var TabletPortraitOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TabletPortraitSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11232 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41061,6 +42274,7 @@ var TabletPortraitSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Telescope.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11233 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41105,6 +42319,7 @@ var Telescope_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TelescopeOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11234 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41120,6 +42335,7 @@ var TelescopeOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TelescopeSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11235 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41164,6 +42380,7 @@ var TelescopeSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Tennisball.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11236 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41208,6 +42425,7 @@ var Tennisball_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TennisballOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11237 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41266,6 +42484,7 @@ var TennisballOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TennisballSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11238 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41310,6 +42529,7 @@ var TennisballSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Terminal.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11239 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41334,6 +42554,7 @@ var Terminal_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TerminalOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11240 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41394,6 +42615,7 @@ var TerminalOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TerminalSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11241 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41418,6 +42640,7 @@ var TerminalSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Text.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11242 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41452,6 +42675,7 @@ var Text_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TextOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11243 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41522,6 +42746,7 @@ var TextOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TextSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11244 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41556,6 +42781,7 @@ var TextSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Thermometer.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11245 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41580,6 +42806,7 @@ var Thermometer_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ThermometerOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11246 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41634,6 +42861,7 @@ var ThermometerOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ThermometerSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11247 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41658,6 +42886,7 @@ var ThermometerSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ThumbsDown.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11248 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41673,6 +42902,7 @@ var ThumbsDown_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ThumbsDownOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11249 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41688,6 +42918,7 @@ var ThumbsDownOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ThumbsDownSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11250 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41742,6 +42973,7 @@ var ThumbsDownSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ThumbsUp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11251 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41757,6 +42989,7 @@ var ThumbsUp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ThumbsUpOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11252 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41772,6 +43005,7 @@ var ThumbsUpOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ThumbsUpSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11253 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41796,6 +43030,7 @@ var ThumbsUpSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Thunderstorm.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11254 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41811,6 +43046,7 @@ var Thunderstorm_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ThunderstormOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11255 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41826,6 +43062,7 @@ var ThunderstormOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ThunderstormSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11256 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41841,6 +43078,7 @@ var ThunderstormSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Ticket.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11257 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41865,6 +43103,7 @@ var Ticket_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TicketOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11258 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41880,6 +43119,7 @@ var TicketOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TicketSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11259 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41904,6 +43144,7 @@ var TicketSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Time.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11260 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41928,6 +43169,7 @@ var Time_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TimeOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11261 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41969,6 +43211,7 @@ var TimeOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TimeSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11262 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -41993,6 +43236,7 @@ var TimeSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Timer.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11263 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42017,6 +43261,7 @@ var Timer_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TimerOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11264 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42055,6 +43300,7 @@ var TimerOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TimerSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11265 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42079,6 +43325,7 @@ var TimerSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Today.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11266 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42113,6 +43360,7 @@ var Today_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TodayOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11267 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42128,6 +43376,7 @@ var TodayOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TodaySharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11268 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42162,6 +43411,7 @@ var TodaySharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Toggle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11269 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42186,6 +43436,7 @@ var Toggle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ToggleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11270 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42233,6 +43484,7 @@ var ToggleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/ToggleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11271 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42257,6 +43509,7 @@ var ToggleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TrailSign.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11272 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42281,6 +43534,7 @@ var TrailSign_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TrailSignOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11273 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42296,6 +43550,7 @@ var TrailSignOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TrailSignSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11274 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42320,6 +43575,7 @@ var TrailSignSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Train.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11275 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42368,6 +43624,7 @@ var Train_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TrainOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11276 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42438,6 +43695,7 @@ var TrainOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TrainSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11277 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42472,6 +43730,7 @@ var TrainSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Transgender.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11278 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42496,6 +43755,7 @@ var Transgender_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TransgenderOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11279 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42511,6 +43771,7 @@ var TransgenderOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TransgenderSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11280 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42535,6 +43796,7 @@ var TransgenderSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Trash.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11281 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42569,6 +43831,7 @@ var Trash_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TrashBin.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11282 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42608,6 +43871,7 @@ var TrashBin_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TrashBinOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11283 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42683,6 +43947,7 @@ var TrashBinOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TrashBinSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11284 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42742,6 +44007,7 @@ var TrashBinSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TrashOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11285 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42757,6 +44023,7 @@ var TrashOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TrashSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11286 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42801,6 +44068,7 @@ var TrashSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TrendingDown.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11287 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42843,6 +44111,7 @@ var TrendingDown_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TrendingDownOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11288 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42885,6 +44154,7 @@ var TrendingDownOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TrendingDownSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11289 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42927,6 +44197,7 @@ var TrendingDownSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TrendingUp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11290 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -42969,6 +44240,7 @@ var TrendingUp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TrendingUpOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11291 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43011,6 +44283,7 @@ var TrendingUpOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TrendingUpSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11292 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43053,6 +44326,7 @@ var TrendingUpSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Triangle.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11293 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43077,6 +44351,7 @@ var Triangle_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TriangleOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11294 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43105,6 +44380,7 @@ var TriangleOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TriangleSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11295 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43129,6 +44405,7 @@ var TriangleSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Trophy.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11296 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43153,6 +44430,7 @@ var Trophy_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TrophyOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11297 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43168,6 +44446,7 @@ var TrophyOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TrophySharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11298 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43192,6 +44471,7 @@ var TrophySharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Tv.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11299 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43230,6 +44510,7 @@ var Tv_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TvOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11300 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43276,6 +44557,7 @@ var TvOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/TvSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11301 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43315,6 +44597,7 @@ var TvSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Umbrella.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11302 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43339,6 +44622,7 @@ var Umbrella_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/UmbrellaOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11303 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43395,6 +44679,7 @@ var UmbrellaOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/UmbrellaSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11304 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43439,6 +44724,7 @@ var UmbrellaSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Unlink.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11305 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43481,6 +44767,7 @@ var Unlink_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/UnlinkOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11306 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43523,6 +44810,7 @@ var UnlinkOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/UnlinkSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11307 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43565,6 +44853,7 @@ var UnlinkSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Videocam.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11308 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43599,6 +44888,7 @@ var Videocam_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/VideocamOff.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11309 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43657,6 +44947,7 @@ var VideocamOff_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/VideocamOffOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11310 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43727,6 +45018,7 @@ var VideocamOffOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/VideocamOffSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11311 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43771,6 +45063,7 @@ var VideocamOffSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/VideocamOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11312 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43812,6 +45105,7 @@ var VideocamOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/VideocamSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11313 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43836,6 +45130,7 @@ var VideocamSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/VolumeHigh.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11314 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43890,6 +45185,7 @@ var VolumeHigh_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/VolumeHighOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11315 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -43960,6 +45256,7 @@ var VolumeHighOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/VolumeHighSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11316 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44026,6 +45323,7 @@ var VolumeHighSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/VolumeLow.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11317 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44060,6 +45358,7 @@ var VolumeLow_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/VolumeLowOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11318 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44102,6 +45401,7 @@ var VolumeLowOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/VolumeLowSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11319 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44136,6 +45436,7 @@ var VolumeLowSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/VolumeMedium.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11320 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44180,6 +45481,7 @@ var VolumeMedium_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/VolumeMediumOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11321 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44236,6 +45538,7 @@ var VolumeMediumOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/VolumeMediumSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11322 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44288,6 +45591,7 @@ var VolumeMediumSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/VolumeMute.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11323 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44303,6 +45607,7 @@ var VolumeMute_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/VolumeMuteOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11324 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44318,6 +45623,7 @@ var VolumeMuteOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/VolumeMuteSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11325 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44333,6 +45639,7 @@ var VolumeMuteSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/VolumeOff.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11326 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44357,6 +45664,7 @@ var VolumeOff_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/VolumeOffOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11327 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44385,6 +45693,7 @@ var VolumeOffOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/VolumeOffSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11328 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44409,6 +45718,7 @@ var VolumeOffSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Walk.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11329 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44424,6 +45734,7 @@ var Walk_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/WalkOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11330 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44439,6 +45750,7 @@ var WalkOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/WalkSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11331 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44454,6 +45766,7 @@ var WalkSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Wallet.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11332 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44498,6 +45811,7 @@ var Wallet_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/WalletOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11333 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44553,6 +45867,7 @@ var WalletOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/WalletSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11334 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44597,6 +45912,7 @@ var WalletSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Warning.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11335 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44621,6 +45937,7 @@ var Warning_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/WarningOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11336 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44673,6 +45990,7 @@ var WarningOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/WarningSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11337 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44697,6 +46015,7 @@ var WarningSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Watch.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11338 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44736,6 +46055,7 @@ var Watch_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/WatchOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11339 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44794,6 +46114,7 @@ var WatchOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/WatchSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11340 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44833,6 +46154,7 @@ var WatchSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Water.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11341 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44857,6 +46179,7 @@ var Water_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/WaterOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11342 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44898,6 +46221,7 @@ var WaterOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/WaterSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11343 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44922,6 +46246,7 @@ var WaterSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Wifi.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11344 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -44978,6 +46303,7 @@ var Wifi_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/WifiOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11345 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -45044,6 +46370,7 @@ var WifiOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/WifiSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11346 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -45110,6 +46437,7 @@ var WifiSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Wine.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11347 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -45134,6 +46462,7 @@ var Wine_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/WineOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11348 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -45201,6 +46530,7 @@ var WineOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/WineSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11349 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -45225,6 +46555,7 @@ var WineSharp_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/Woman.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11350 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -45261,6 +46592,7 @@ var Woman_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/WomanOutline.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11351 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",
@@ -45276,6 +46608,7 @@ var WomanOutline_default = defineComponent({
 });
 
 // node_modules/@vicons/ionicons5/es/WomanSharp.js
+init_vue_runtime_esm_bundler();
 var _hoisted_11352 = {
   xmlns: "http://www.w3.org/2000/svg",
   "xmlns:xlink": "http://www.w3.org/1999/xlink",

@@ -13,7 +13,7 @@
                     :src="`/project/logo/${project.name}.webp`"
                     :alt="project.name"
                     class="project-logo"
-                    onerror="hideImg(this)"
+                    onerror="this.style.display = 'none';this.nextElementSibling.style.display = 'block'"
                 />
                 <span class="project-name">{{ project.name }}</span>
               </div>
@@ -80,11 +80,12 @@
 
 <script setup>
 import {
-  NA, NH3, NDivider, NGrid, NGridItem, NCard, NText, NSpace, NTooltip,
-} from 'naive-ui'
+  NA, NDivider, NGrid, NGridItem, NCard, NText, NSpace, NTooltip,
+} from 'naive-ui';
 import {LogoGithub} from "@vicons/ionicons5";
 import {projectGroups} from "./projects";
 import {onMounted, ref} from "vue";
+
 
 const groups = ref([]);
 
@@ -108,16 +109,6 @@ function shuffle2DArray(array) {
   array.forEach(row => shuffle(row.projects));
 
   return array;
-}
-
-window.hideImg = function (img) {
-  // 隐藏图片
-  img.style.display = 'none';
-  // 显示占位文字
-  const placeholder = img.nextElementSibling;
-  if (placeholder) {
-    placeholder.style.display = 'block';
-  }
 }
 </script>
 
