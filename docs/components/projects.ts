@@ -130,7 +130,7 @@ export const projectGroups = [
                 sponsor: "哆啦好梦（wallace530）",
                 date: "2022.12",
                 link: `
-          <a href="https://gitee.com/dromara/electron-egg"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/electron-egg/badge/star.svg"></a>
+  <a href="https://gitee.com/dromara/electron-egg"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/electron-egg/badge/star.svg"></a>
   <a href="https://gitee.com/dromara/electron-egg/members"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/electron-egg/badge/fork.svg"></a>
   <a href="https%3A%2F%2Fgithub.com%2Fdromara%2Felectron-egg"><img onerror="this.style.display='none'" src="https://img.shields.io/github/stars/dromara/electron-egg?style=flat-square&amp;logo=github"></a>
   <a href="https%3A%2F%2Fgithub.com%2Fdromara%2Felectron-egg%2Fnetwork%2Fmembers"><img onerror="this.style.display='none'" src="https://img.shields.io/github/forks/dromara/electron-egg?style=flat-square&amp;logo=GitHub"></a>
@@ -144,7 +144,7 @@ export const projectGroups = [
                 sponsor: "fhs_opensource",
                 date: "2023.01",
                 link: `
-          <a href="https://gitee.com/dromara/easy_trans"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/easy_trans/badge/star.svg"></a>
+  <a href="https://gitee.com/dromara/easy_trans"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/easy_trans/badge/star.svg"></a>
   <a href="https://gitee.com/dromara/easy_trans/members"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/easy_trans/badge/fork.svg"></a>
   <a href="https%3A%2F%2Fgithub.com%2Fdromara%2Feasy-es"><img onerror="this.style.display='none'" src="https://img.shields.io/github/stars/dromara/easy-es?style=flat-square&amp;logo=github"></a>
   <a href="https%3A%2F%2Fgithub.com%2Fdromara%2Feasy-es%2Fnetwork%2Fmembers"><img onerror="this.style.display='none'" src="https://img.shields.io/github/forks/dromara/easy-es?style=flat-square&amp;logo=GitHub"></a>
