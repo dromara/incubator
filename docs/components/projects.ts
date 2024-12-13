@@ -70,8 +70,8 @@ export const projectGroups = [
                 sponsor: "dreamlu",
                 date: "2021.03",
                 link: `
-  <a href="https://gitee.com/dromara/mica-mqtt"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/mica-mqtt/badge/star.svg"></a>
-  `
+                    <a href="https://gitee.com/dromara/mica-mqtt"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/mica-mqtt/badge/star.svg"></a>
+`
             },
             {
                 name: "dongle",
