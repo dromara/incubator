@@ -295,7 +295,7 @@ export const projectGroups = [
                 sponsor: "傲世孤尘（asgc）",
                 date: "2023.01",
                 link: `
-    <a href="https://gitee.com/dromara/neutrino-proxy/stargazers"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/neutrino-proxy/badge/star.svg?theme=dark" alt="star"></a>
+  <a href="https://gitee.com/dromara/neutrino-proxy/stargazers"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/neutrino-proxy/badge/star.svg?theme=dark" alt="star"></a>
   <a href="https://gitee.com/dromara/neutrino-proxy/members"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/neutrino-proxy/badge/fork.svg?theme=dark" alt="fork"></a>
   <a target="_blank" href="https%3A%2F%2Fwww.oracle.com%2Fjava%2Ftechnologies%2Fjavase%2Fjavase-jdk8-downloads.html">
       <img onerror="this.style.display='none'" src="https://img.shields.io/badge/JDK-8+-red.svg">
