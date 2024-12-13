@@ -12,24 +12,12 @@ import{g as S,D as h,E as m,P as r,_ as A,r as k,o as C,Y as D,F as u,Z as v,a0 
   <a href="https://github.com/dromara/WeMQ/network/members"><img onerror="this.style.display='none'" src="https://img.shields.io/github/forks/dromara/WeMQ?style=flat-square&amp;logo=GitHub"></a>
   <a href="https://github.com/dromara/WeMQ/blob/master/LICENSE"><img onerror="this.style.display='none'" src="https://img.shields.io/github/license/dromara/WeMQ.svg?style=flat-square"></a>
           `},{name:"X-File-Storage",website:"https://x-file-storage.dromara.org/",description:e.X_FILE_STORAGE_DESC,sponsor:"梦想i（XYW1171736840）",date:"2023.09",link:`
-    <a target="_blank" href="https://central.sonatype.com/search?q=org.dromara.x-file-storage">
-        <img onerror="this.style.display='none'" src="https://img.shields.io/maven-central/v/org.dromara.x-file-storage/x-file-storage-core.svg?label=Maven%20Central" />
-    </a>
-    <a target="_blank" href="https://www.apache.org/licenses/LICENSE-2.0">
-        <img onerror="this.style.display='none'" src="https://img.shields.io/badge/license-Apache%202-green.svg">
-    </a>
-    <a target="_blank" href="https://www.oracle.com/technetwork/java/javase/downloads/index.html">
-        <img onerror="this.style.display='none'" src="https://img.shields.io/badge/JDK-8+-blue.svg">
-    </a>
-    <a target="_blank" href="https://github.com/dromara/x-file-storage">
-        <img onerror="this.style.display='none'" src="https://img.shields.io/github/stars/dromara/x-file-storage.svg?style=social" alt="github star">
-    </a>
-    <a href="https://gitee.com/dromara/x-file-storage">
-        <img onerror="this.style.display='none'" src="https://gitee.com/dromara/x-file-storage/badge/star.svg?theme=dark" alt="star">
-    </a>
-    <a href="https://jq.qq.com/?_wv=1027&amp;k=eGfeNqka">
-        <img onerror="this.style.display='none'" src="https://img.shields.io/badge/QQ%E7%BE%A4-515706495-orange" alt="">
-    </a>
+    <a target="_blank" href="https://central.sonatype.com/search?q=org.dromara.x-file-storage"><img onerror="this.style.display='none'" src="https://img.shields.io/maven-central/v/org.dromara.x-file-storage/x-file-storage-core.svg?label=Maven%20Central" /></a>
+    <a target="_blank" href="https://www.apache.org/licenses/LICENSE-2.0"><img onerror="this.style.display='none'" src="https://img.shields.io/badge/license-Apache%202-green.svg"></a>
+    <a target="_blank" href="https://www.oracle.com/technetwork/java/javase/downloads/index.html"><img onerror="this.style.display='none'" src="https://img.shields.io/badge/JDK-8+-blue.svg"></a>
+    <a target="_blank" href="https://github.com/dromara/x-file-storage"><img onerror="this.style.display='none'" src="https://img.shields.io/github/stars/dromara/x-file-storage.svg?style=social" alt="github star"></a>
+    <a href="https://gitee.com/dromara/x-file-storage"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/x-file-storage/badge/star.svg?theme=dark" alt="star"></a>
+    <a href="https://jq.qq.com/?_wv=1027&amp;k=eGfeNqka"><img onerror="this.style.display='none'" src="https://img.shields.io/badge/QQ%E7%BE%A4-515706495-orange" alt=""></a>
 `},{name:"electron-egg",website:"https://www.yuque.com/u34495/mivcfg",description:e.ELECTRON_EGG_DESC,sponsor:"哆啦好梦（wallace530）",date:"2022.12",link:`
           <a href="https://gitee.com/dromara/electron-egg"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/electron-egg/badge/star.svg"></a>
   <a href="https://gitee.com/dromara/electron-egg/members"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/electron-egg/badge/fork.svg"></a>
