@@ -326,7 +326,7 @@ export const projectGroups = [
                 sponsor: "暮光：城中城（zyplayer）",
                 date: "2023.02",
                 link: `
-          <a href="https://gitee.com/dromara/zyplayer-doc"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/zyplayer-doc/badge/star.svg"></a>
+  <a href="https://gitee.com/dromara/zyplayer-doc"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/zyplayer-doc/badge/star.svg"></a>
   <a href="https://gitee.com/dromara/zyplayer-doc/members"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/zyplayer-doc/badge/fork.svg"></a>
           `
             },
