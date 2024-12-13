@@ -194,7 +194,7 @@ export const projectGroups = [
                 sponsor: "Memorydoc",
                 date: "2022.06",
                 link: `
-          <a href="https://gitee.com/dromara/gobrs-async"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/gobrs-async/badge/star.svg"></a>
+  <a href="https://gitee.com/dromara/gobrs-async"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/gobrs-async/badge/star.svg"></a>
   <a href="https://gitee.com/dromara/gobrs-async/members"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/gobrs-async/badge/fork.svg"></a>
   <a href="https%3A%2F%2Fgithub.com%2Fdromara%2Fgobrs-async"><img onerror="this.style.display='none'" src="https://img.shields.io/github/stars/dromara/gobrs-async?style=flat-square&amp;logo=github"></a>
   <a href="https%3A%2F%2Fgithub.com%2Fdromara%2Fgobrs-async%2Fnetwork%2Fmembers"><img onerror="this.style.display='none'" src="https://img.shields.io/github/forks/dromara/gobrs-async?style=flat-square&amp;logo=GitHub"></a>
