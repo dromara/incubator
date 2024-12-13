@@ -183,7 +183,7 @@ export const projectGroups = [
                 sponsor: "xsx（xsxgit）",
                 date: "2022.07",
                 link: `
-          <a href="https://gitee.com/dromara/x-easypdf"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/x-easypdf/badge/star.svg"></a>
+  <a href="https://gitee.com/dromara/x-easypdf"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/x-easypdf/badge/star.svg"></a>
   <a href="https://gitee.com/dromara/x-easypdf/members"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/x-easypdf/badge/fork.svg"></a>
           `
             },
