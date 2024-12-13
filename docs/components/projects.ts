@@ -338,7 +338,7 @@ export const projectGroups = [
                 date: "2024.03",
                 link: `<a
        href="https://app.codacy.com/gh/lijiahangmax/orion-visor/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade">
-      <img onerror="this.style.display='none'" src="https://app.codacy.com/project/badge/Grade/49eaab3a9a474af3b87e1d21ffec71c4" alt="quality" />
+    <img onerror="this.style.display='none'" src="https://app.codacy.com/project/badge/Grade/49eaab3a9a474af3b87e1d21ffec71c4" alt="quality" />
     </a>
     <a
        href="https://www.apache.org/licenses/LICENSE-2.0">
