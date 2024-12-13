@@ -123,7 +123,7 @@ import{g as S,D as h,E as m,P as r,_ as A,r as k,o as C,Y as D,F as u,Z as v,a0 
   <a href="https://gitee.com/dromara/zyplayer-doc/members"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/zyplayer-doc/badge/fork.svg"></a>
           `},{name:"orion-visor",website:"https://gitee.com/dromara/orion-visor",description:e.ORION_VISOR,sponsor:"李佳航（lijiahangmax）",date:"2024.03",link:`<a
        href="https://app.codacy.com/gh/lijiahangmax/orion-visor/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade">
-      <img onerror="this.style.display='none'" src="https://app.codacy.com/project/badge/Grade/49eaab3a9a474af3b87e1d21ffec71c4" alt="quality" />
+    <img onerror="this.style.display='none'" src="https://app.codacy.com/project/badge/Grade/49eaab3a9a474af3b87e1d21ffec71c4" alt="quality" />
     </a>
     <a
        href="https://www.apache.org/licenses/LICENSE-2.0">
