@@ -1,7 +1,7 @@
 ---
 layout: home
 footer: true
-title: 常见问题解答(FAQ)
+title: 常见问题解答（FAQ）
 ---
 
 # 常见问题解答 (FAQ)
