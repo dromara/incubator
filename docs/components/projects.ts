@@ -31,8 +31,7 @@ const projectLocale = {
     TESTHUB_DESC: "TestHub 是一款基于流程编排的自动化测试工具。",
     DOMAIN_ADMIN_DESC: "域名SSL证书监测平台、SSL证书申请自动续签。",
     YFT_DESIGN_DESC: "基于Canvas的开源版“创客贴”。",
-    ZYPLAYER_DOC_DESC:
-        "一款适合团队和个人私有化部署使用的知识库、笔记、WIKI文档管理工具。",
+    ZYPLAYER_DOC_DESC: "一款适合团队和个人私有化部署使用的知识库、笔记、WIKI文档管理工具。",
     X_FILE_STORAGE_DESC: "一站式文件存储，聚合对接所有主流存储平台。",
 
     OPERATIONS_AND_MAINTENANCE_CONTROL: "运维管控",
