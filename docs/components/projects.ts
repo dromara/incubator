@@ -37,8 +37,7 @@ const projectLocale = {
     OPERATIONS_AND_MAINTENANCE_CONTROL: "运维管控",
 
     BIG_DATA: "大数据",
-    CLOUDEON_DESC:
-        "一款基于kubernetes的云原生大数据平台，致力于简化k8s上大数据集群的运维管理。",
+    CLOUDEON_DESC: "一款基于kubernetes的云原生大数据平台，致力于简化k8s上大数据集群的运维管理。",
     DATA_COMPARE_DESC: "数据库比对工具: hive 表数据比对，mysql、Doris 数据比对。",
 
     MICROSERVICE: "微服务",
