@@ -3,7 +3,7 @@ layout: home
 footer: true
 title: 孵化政策
 ---
-# Dromara开源社区 :: 孵化政策
+# Dromara 开源社区 :: 孵化政策
 
 ## 关于本文件
 

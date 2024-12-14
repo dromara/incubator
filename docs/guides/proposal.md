@@ -3,7 +3,7 @@ layout: home
 footer: true
 title: 提案创作指南
 ---
-# Dromara开源社区 :: 提案创建指南
+# Dromara 开源社区 :: 提案创建指南
 
 ## 概述
 

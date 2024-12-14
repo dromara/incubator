@@ -3,7 +3,7 @@ layout: home
 footer: true
 title: 参与指南
 ---
-# Dromara开源社区 :: 参与指南
+# Dromara 开源社区 :: 参与指南
 
 ## 一般网络礼仪
    * 请确保了解Apache邮件列表的使用方式，可参考邮件列表指南。
