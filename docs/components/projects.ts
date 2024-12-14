@@ -9,8 +9,7 @@ const projectLocale = {
     FAST_REQUEST_DESC: "基于jetbrains intellij idea的postman插件",
     REDISFRONT_DESC: "一款开源跨平台Redis 桌面客户端工具",
     X_EASYPDF_DESC: "一个用搭积木的方式构建pdf的框架（基于pdfbox）",
-    GOBRS_ASYNC_DESC:
-        "一款功能强大、配置灵活、带有全链路异常回调、内存优化、异常状态管理于一身的高性能异步编排框架",
+    GOBRS_ASYNC_DESC: "一款功能强大、配置灵活、带有全链路异常回调、内存优化、异常状态管理于一身的高性能异步编排框架",
     DYJAVA: "DyJava是一款功能强大的抖音Java开发工具包（SDK），支持抖音各个应用OpenAPI快速调用，包括但不限于移动/网站应用、抖音开放平台、抖店和抖音小程序等",
     ORION_VISOR: "一款高颜值、现代化的智能运维&轻量堡垒机平台。",
     WARM_FLOW: "国产工作流引擎,其特点简洁轻量但又不简单，五脏俱全，组件独立，可扩展，可满足中小项目的组件.解决flowable和activities复杂、学习成本高和集成难等痛点。",
