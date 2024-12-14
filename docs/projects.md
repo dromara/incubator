@@ -1,7 +1,7 @@
 ---
 layout: home
 footer: true
-title: Dromara 孵化项目
+title: 孵化项目
 ---
 
 # 孵化中的项目
