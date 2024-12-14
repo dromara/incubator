@@ -1,7 +1,7 @@
 ---
 layout: home
 footer: true
-title: 孵化项目
+title: 孵化中的项目
 ---
 
 # 孵化中的项目
