@@ -2,8 +2,7 @@ const projectLocale = {
 
     POPULAR_TOOLS: "流行工具",
     IMAGE_COMBINER_DESC: "Java服务端图片合成工具",
-    WEMQ_DESC:
-        "WeMQ是一款面向物联网设备运营商的开源物联网设备调试系统，提供集成设备管理、MQTT服务器管理、客户管理等功能，自研Nmqs通信层组件，实现了连接信息的加密，保证了数据的安全性。",
+    WEMQ_DESC: "WeMQ是一款面向物联网设备运营商的开源物联网设备调试系统，提供集成设备管理、MQTT服务器管理、客户管理等功能，自研Nmqs通信层组件，实现了连接信息的加密，保证了数据的安全性。",
     ELECTRON_EGG_DESC: "一个入门简单、跨平台、企业级桌面软件开发框架",
     EASY_TRANS_DESC: "一个注解搞定数据翻译,减少30%SQL代码量",
     FAST_REQUEST_DESC: "基于jetbrains intellij idea的postman插件",
