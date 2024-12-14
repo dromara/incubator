@@ -42,8 +42,7 @@ const projectLocale = {
 
     MICROSERVICE: "微服务",
     LAMP_CLOUD_DESC: "专注于多租户(SaaS架构)解决方案的微服务中后台快速开发平台",
-    DANTE_CLOUD_DESC:
-        "基于 Spring Authorization Server 全新适配 OAuth 2.1 协议的企业级微服务架构",
+    DANTE_CLOUD_DESC: "基于 Spring Authorization Server 全新适配 OAuth 2.1 协议的企业级微服务架构",
     OPEN_CAPACITY_PLATFORM_DESC: "基于Spring Cloud的企业级微服务框架",
     RUOYI_VUE_PLUS_DESC:
         "后台管理系统 重写RuoYi-Vue所有功能 集成 Sa-Token+Mybatis-Plus+Jackson+Xxl-Job+SpringDoc+Hutool+OSS",
