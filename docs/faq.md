@@ -1,7 +1,7 @@
 ---
 layout: home
 footer: true
-title: Dromara 孵化器
+title: 常见问题解答 (FAQ)
 ---
 
 # 常见问题解答 (FAQ)
