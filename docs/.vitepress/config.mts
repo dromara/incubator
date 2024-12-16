@@ -35,15 +35,13 @@ export default defineConfig({
             {text: '首页', link: '/'},
             {text: '孵化项目', link: '/projects'},
             {
+                text: '导师列表',
+                link: '/guides/mentor',
+            },
+            {
                 text: '政策',
                 items: [
                     {text: '孵化政策', link: '/policy/incubation'}
-                ],
-            },
-            {
-                text: '提案',
-                items: [
-                    {text: '提案创作指南', link: '/guides/mentor'}
                 ],
             },
             {
