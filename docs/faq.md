@@ -4,7 +4,7 @@ footer: true
 title: 常见问题解答 (FAQ)
 ---
 
-# Dromara 开源社区 :: 常见问题解答 (FAQ)
+# 常见问题解答 (FAQ)
 
 ### 1. 孵化流程
 
