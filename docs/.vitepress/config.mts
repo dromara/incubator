@@ -43,29 +43,21 @@ export default defineConfig({
             {
                 text: '提案',
                 items: [
-                    {text: '提案创作指南', link: '/guides/proposal'}
+                    {text: '提案创作指南', link: '/guides/mentor'}
                 ],
             },
             {
                 text: '孵化指南',
                 items: [
-                    {text: '角色与职责', link: '/guides/roles_and_responsibilities'},
-                    {text: '贡献者', link: '/guides/committer'},
                     {text: '项目管理委员会', link: '/guides/ppmc'},
                     {text: '社区成熟建设指南', link: '/guides/community'},
-                ],
-            },
-            {
-                text: 'PMC指南',
-                items: [
-                    {text: '参与指南', link: '/guides/participation'},
                 ],
             },
             {text: '常见问题解答', link: '/faq'},
         ],
         footer: {
-            message: 'Licensed under the Apache License, Version 2.0.',
-            copyright: 'Copyright © 2024 The Dromara Software Foundation'
+            message: '',
+            copyright: 'Copyright © 2024 The dromara.org'
         },
         socialLinks: [
             {
