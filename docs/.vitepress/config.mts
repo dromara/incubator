@@ -39,18 +39,14 @@ export default defineConfig({
                 link: '/guides/mentor',
             },
             {
-                text: '政策',
-                items: [
-                    {text: '孵化政策', link: '/policy/incubation'}
-                ],
-            },
-            {
                 text: '孵化指南',
                 items: [
                     {text: '项目管理委员会', link: '/guides/ppmc'},
                     {text: '社区成熟建设指南', link: '/guides/community'},
                 ],
             },
+            {text: '孵化项目发版', link: '/guides/release'},
+            {text: '孵化项目毕业', link: '/guides/graduate'},
             {text: '常见问题解答', link: '/faq'},
         ],
         footer: {

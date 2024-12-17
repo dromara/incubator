@@ -33,7 +33,7 @@ Dromara开源组织孵化器为有意加入Dromara开源组织的项目提供服
 ### 编写提案
 
 您需要和导师一起编写提案内容。以便通过 Dromara TOC 委员会的评审通过。
-
+ 
 提案内容应该包含以下内容：
 
 ```
@@ -44,3 +44,12 @@ Dromara开源组织孵化器为有意加入Dromara开源组织的项目提供服
 人员
 license
 ```
+### 提交提案
+
+在dromara incubator github的issue中提交提案。
+
+地址： https://github.com/dromara/incubator/issues
+
+标题为： [Proposal]  xxx项目申请加入Dromara 开源组织孵化器
+
+内容： 您的提案内容
