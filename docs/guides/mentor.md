@@ -5,6 +5,13 @@ title: 导师列表
 ---
 # 导师列表
 
+<script setup>
+import MentorList from '../components/MentorList/index.vue';
+</script>
+<MentorList></MentorList>
+
+### 导师介绍
+
 导师作为项目加入到 dromara 开源组织的引路人，是非常重要的角色。
 职责包含且不限于一下：
 * 帮助项目了解 dromara 开源组织的风格，政策。

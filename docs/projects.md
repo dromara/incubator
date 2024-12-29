@@ -7,7 +7,7 @@ title: 孵化项目
 # 孵化项目
 
 <script setup>
-import ProjectList from './components/ProjectList.vue';
+import ProjectList from './components/ProjectList/index.vue';
 </script>
 
 <ProjectList></ProjectList>

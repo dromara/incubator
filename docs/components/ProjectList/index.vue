@@ -73,10 +73,18 @@
 
 <script setup>
 import {
-  NA, NDivider, NGrid, NGridItem, NCard, NText, NSpace, NTooltip,
+  NAlert, NAnchor, NAnchorLink, NAutoComplete, NAvatar, NAvatarGroup, NBackTop, NBadge, NBreadcrumb, NBreadcrumbItem, NButton,
+  NButtonGroup, NCalendar, NCard, NCarousel, NCarouselItem, NCascader, NCheckbox, NCheckboxGroup, NCode, NCollapse, NCollapseItem,
+  NCollapseTransition, NColorPicker, NConfigProvider, NCountdown, NDataTable, NDatePicker, NDescriptions, NDescriptionsItem, NDialog,
+  NDivider, NDrawer, NDrawerContent, NDropdown, NDynamicInput, NDynamicTags, NElement, NEllipsis, NEmpty, NForm, NFormItem, NFormItemGi,
+  NGlobalStyle, NGrid, NGridItem, NIcon, NIconWrapper, NImage, NImageGroup, NInput, NInputGroup, NInputGroupLabel, NInputNumber, NLayout,
+  NLayoutContent, NLayoutFooter, NLayoutHeader, NLayoutSider, NList, NListItem, NLoadingBarProvider, NLog, NMenu, NMention, NMessageProvider,
+  NModal, NNotificationProvider, NNumberAnimation, NPagination, NPopconfirm, NPopover, NProgress, NRadio, NRadioButton, NRadioGroup, NRate,
+  NResult, NScrollbar, NSelect, NSkeleton, NSlider, NSpace, NSpin, NStatistic, NStep, NSteps, NSwitch, NTable, NTabPane, NTabs, NTag, NThing,
+  NTimePicker, NTimeline, NTimelineItem, NTooltip, NTransfer, NTree, NTreeSelect, NWatermark, NText, NGradientText, NH1, NH2, NH3, NH4, NH5, NH6
 } from 'naive-ui';
 import {LogoGithub} from "@vicons/ionicons5";
-import {projects} from "./projects";
+import {projects} from "./data";
 import {onMounted, ref} from "vue";
 
 
