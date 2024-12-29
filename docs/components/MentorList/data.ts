@@ -43,7 +43,7 @@ export const mentors: TeamMember[] = [
         name: "李楠",
         avatar: "/mentor/李楠.png",
         contacts: [
-            {type: "wechat", value: "18773123501"}
+            {type: "wechat", value: "im2813886842"}
         ]
     },
     {
