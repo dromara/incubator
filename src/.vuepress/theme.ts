@@ -1,5 +1,5 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { slimsearchPlugin } from '@vuepress/plugin-slimsearch'
+// import { slimsearchPlugin } from '@vuepress/plugin-slimsearch'
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 

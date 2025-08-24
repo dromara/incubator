@@ -19,7 +19,7 @@ export default navbar([
   },
    {
     text: "孵化项目毕业",
-    link: "graduate.md"
+    link: "/guides/graduate.md"
   }
 
 ]);
