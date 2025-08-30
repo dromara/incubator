@@ -1,6 +1,5 @@
 ---
 home: true
-layout: Blog
 title: 博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: 你博客的名称

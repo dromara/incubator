@@ -26,6 +26,7 @@
     ]
   },
   "dependencies": {
-    "@vicons/ionicons5": "^0.13.0"
+    "@vicons/ionicons5": "^0.13.0",
+    "gsap": "^3.13.0"
   }
 }
