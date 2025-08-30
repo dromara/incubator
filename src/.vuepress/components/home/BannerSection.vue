@@ -124,12 +124,11 @@ color: black;
   height: auto;
 }
 .bn-title, .bn-description {
-            opacity: 0; /* 完全透明 */
-            transform: translateY(20px); /* 向下偏移20px */
-            transition: opacity 0.5s ease, transform 0.5s ease; /* 可选：添加过渡效果 */
+            opacity: 0; 
+            transform: translateY(20px); 
+            transition: opacity 0.5s ease, transform 0.5s ease; 
         }
         
-        /* 可以添加一个类来触发显示动画 */
         .animate-in {
             opacity: 1;
             transform: translateY(0);

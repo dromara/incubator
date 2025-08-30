@@ -1,89 +1,35 @@
 <template>
-  <n-grid style="margin-top: 16px" :x-gap="16" :y-gap="16" cols="2 s:1">
-    <n-grid-item v-for="project in dataList" :key="project.name">
-      <n-card hoverable class="project-card">
-        <template #cover>
-          <div class="project-header">
-            <img
-                :src="`/project/logo/${project.name}.webp`"
-                :alt="project.name"
-                class="project-logo"
-                onerror="this.style.display = 'none';this.nextElementSibling.style.display = 'block'"
-            />
-            <span class="project-name">{{ project.name }}</span>
-          </div>
-        </template>
-        <n-space vertical>
-          <n-text depth="2">
-            {{ project.description }}
-          </n-text>
+    <div class="container">
+    <div class="card" v-for="project in dataList" :key="project.name">
+      <h2>{{ project.name }}</h2>
+      <div class="content-container">
+        <div class="content">
+          <p> {{ project.description }}</p>
+      <p>作者：{{ project.sponsor }}</p>
+      <p>加入时间：{{ project.date }}</p>
+      <div class="tags">
+        <p v-html="project.link"></p>
+      </div>
+        </div>
+      
+      <div class="icons">
+        <div class="icons-container">
+            <div class="github">
+            <svg t="1756573995607" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="3121" width="25" height="25"><path d="M512 85.333333C276.266667 85.333333 85.333333 276.266667 85.333333 512a426.410667 426.410667 0 0 0 291.754667 404.821333c21.333333 3.712 29.312-9.088 29.312-20.309333 0-10.112-0.554667-43.690667-0.554667-79.445333-107.178667 19.754667-134.912-26.112-143.445333-50.133334-4.821333-12.288-25.6-50.133333-43.733333-60.288-14.933333-7.978667-36.266667-27.733333-0.554667-28.245333 33.621333-0.554667 57.6 30.933333 65.621333 43.733333 38.4 64.512 99.754667 46.378667 124.245334 35.2 3.754667-27.733333 14.933333-46.378667 27.221333-57.045333-94.933333-10.666667-194.133333-47.488-194.133333-210.688 0-46.421333 16.512-84.778667 43.733333-114.688-4.266667-10.666667-19.2-54.4 4.266667-113.066667 0 0 35.712-11.178667 117.333333 43.776a395.946667 395.946667 0 0 1 106.666667-14.421333c36.266667 0 72.533333 4.778667 106.666666 14.378667 81.578667-55.466667 117.333333-43.690667 117.333334-43.690667 23.466667 58.666667 8.533333 102.4 4.266666 113.066667 27.178667 29.866667 43.733333 67.712 43.733334 114.645333 0 163.754667-99.712 200.021333-194.645334 210.688 15.445333 13.312 28.8 38.912 28.8 78.933333 0 57.045333-0.554667 102.912-0.554666 117.333334 0 11.178667 8.021333 24.490667 29.354666 20.224A427.349333 427.349333 0 0 0 938.666667 512c0-235.733333-190.933333-426.666667-426.666667-426.666667z" fill="#000000" p-id="3122"></path></svg>
+        </div>
+        <div class="gitee">
+          <svg t="1756574202834" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4254" width="25" height="25"><path d="M512 1024C229.222 1024 0 794.778 0 512S229.222 0 512 0s512 229.222 512 512-229.222 512-512 512z m259.149-568.883h-290.74a25.293 25.293 0 0 0-25.292 25.293l-0.026 63.206c0 13.952 11.315 25.293 25.267 25.293h177.024c13.978 0 25.293 11.315 25.293 25.267v12.646a75.853 75.853 0 0 1-75.853 75.853h-240.23a25.293 25.293 0 0 1-25.267-25.293V417.203a75.853 75.853 0 0 1 75.827-75.853h353.946a25.293 25.293 0 0 0 25.267-25.292l0.077-63.207a25.293 25.293 0 0 0-25.268-25.293H417.152a189.62 189.62 0 0 0-189.62 189.645V771.15c0 13.977 11.316 25.293 25.294 25.293h372.94a170.65 170.65 0 0 0 170.65-170.65V480.384a25.293 25.293 0 0 0-25.293-25.267z" fill="#C71D23" p-id="4255"></path></svg>
+        </div>
+        </div>
+      </div>
+      </div>
 
-          <n-space vertical>
-            <n-text depth="2">
-              <n-text strong depth="2">作者：</n-text>
-              {{ project.sponsor }}
-            </n-text>
-            <n-text depth="2">
-              <n-text strong depth="2">加入时间：</n-text>
-              {{ project.date }}
-            </n-text>
-
-            <p class="project-link" v-html="project.link"/>
-            <n-divider/>
-            <n-space>
-              <div style="width: 24px;">
-                <n-tooltip trigger="hover">
-                  <template #trigger>
-                    <n-a :href="`https://github.com/dromara/myth${project.name}`" target="_blank">
-                      <n-icon>
-                        <LogoGithub/>
-                      </n-icon>
-                    </n-a>
-                  </template>
-                  访问 GitHub 仓库
-                </n-tooltip>
-              </div>
-              <div style="width: 24px;">
-                <n-tooltip trigger="hover">
-                  <template #trigger>
-                    <n-a :href="`https://gitee.com/dromara/${project.name}`" target="_blank">
-                      <n-icon>
-                        <svg xmlns="http://www.w3.org/2000/svg" id="Group" viewBox="0 0 89.7088726 89.7088726">
-                          <g>
-                            <circle id="Combined-Shape" fill="#C71D23" cx="44.8544363" cy="44.8544363"
-                                    r="44.8544363"/>
-                            <path
-                                d="M67.558546,39.8714292 L42.0857966,39.8714292 C40.8627004,39.8720094 39.8710953,40.8633548 39.8701949,42.0864508 L39.8687448,47.623783 C39.867826,48.8471055 40.8592652,49.8390642 42.0825879,49.8393845 C42.0827874,49.8393846 42.0829869,49.8393846 42.0831864,49.8387862 L57.5909484,49.838657 C58.8142711,49.8386283 59.8059783,50.830319 59.8059885,52.0536417 C59.8059885,52.0536479 59.8059885,52.053654 59.8059701,52.0536602 L59.8059701,52.6073539 L59.8059701,52.6073539 L59.8059701,53.161115 C59.8059701,56.8310831 56.8308731,59.80618 53.160905,59.80618 L32.1165505,59.80618 C30.8934034,59.806119 29.9018373,58.8145802 29.9017425,57.5914331 L29.9011625,36.5491188 C29.9008781,32.8791508 32.8758931,29.9039718 36.5458611,29.9038706 C36.5459222,29.9038706 36.5459833,29.9038706 36.5460443,29.9040538 L67.5523638,29.9040538 C68.77515,29.9026795 69.7666266,28.9118177 69.7687593,27.6890325 L69.7721938,22.1516997 C69.774326,20.928378 68.7832423,19.9360642 67.5599198,19.9353054 C67.5594619,19.9353051 67.5590039,19.935305 67.558546,19.9366784 L36.5479677,19.9366784 C27.3730474,19.9366784 19.935305,27.3744208 19.935305,36.549341 L19.935305,67.558546 C19.935305,68.7818687 20.927004,69.7735676 22.1503267,69.7735676 L54.8224984,69.7735676 C63.079746,69.7735676 69.7735676,63.079746 69.7735676,54.8224984 L69.7735676,42.0864509 C69.7735676,40.8631282 68.7818687,39.8714292 67.558546,39.8714292 Z"
-                                id="G" fill="#FFFFFF"/>
-                          </g>
-                        </svg>
-                      </n-icon>
-                    </n-a>
-                  </template>
-                  访问 Gitee 仓库
-                </n-tooltip>
-              </div>
-            </n-space>
-          </n-space>
-        </n-space>
-      </n-card>
-    </n-grid-item>
-  </n-grid>
+    </div>
+  </div>
+  
 </template>
 
 <script setup>
-import {
-  NAlert, NAnchor, NAnchorLink, NAutoComplete, NAvatar, NAvatarGroup, NBackTop, NBadge, NBreadcrumb, NBreadcrumbItem, NButton,
-  NButtonGroup, NCalendar, NCard, NCarousel, NCarouselItem, NCascader, NCheckbox, NCheckboxGroup, NCode, NCollapse, NCollapseItem,
-  NCollapseTransition, NColorPicker, NConfigProvider, NCountdown, NDataTable, NDatePicker, NDescriptions, NDescriptionsItem, NDialog,
-  NDivider, NDrawer, NDrawerContent, NDropdown, NDynamicInput, NDynamicTags, NElement, NEllipsis, NEmpty, NForm, NFormItem, NFormItemGi,
-  NGlobalStyle, NGrid, NGridItem, NIcon, NIconWrapper, NImage, NImageGroup, NInput, NInputGroup, NInputGroupLabel, NInputNumber, NLayout,
-  NLayoutContent, NLayoutFooter, NLayoutHeader, NLayoutSider, NList, NListItem, NLoadingBarProvider, NLog, NMenu, NMention, NMessageProvider,
-  NModal, NNotificationProvider, NNumberAnimation, NPagination, NPopconfirm, NPopover, NProgress, NRadio, NRadioButton, NRadioGroup, NRate,
-  NResult, NScrollbar, NSelect, NSkeleton, NSlider, NSpace, NSpin, NStatistic, NStep, NSteps, NSwitch, NTable, NTabPane, NTabs, NTag, NThing,
-  NTimePicker, NTimeline, NTimelineItem, NTooltip, NTransfer, NTree, NTreeSelect, NWatermark, NText, NGradientText, NH1, NH2, NH3, NH4, NH5, NH6
-} from 'naive-ui';
-import {LogoGithub} from "@vicons/ionicons5";
 import {projects} from "./data";
 import {onMounted, ref} from "vue";
 
@@ -98,55 +44,80 @@ onMounted(() => {
 </script>
 
 <style scoped>
-.group-name {
-  font-size: 28px;
-}
+.container {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    
+    .card {
+      background: #fff;
+      border-radius: 8px;
+      padding: 20px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      border: 1px solid #f5f5f5;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+    }
+    .card h2 {
+      margin: 0 0 15px;
+      color: #2c3e50;
+      font-size: 1.3rem;
+    }
+    
+    .card p {
+      color: #666;
+      margin: 8px 0;
+      font-size: 0.9rem;
+    }
+    
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 15px 0;
+    }
+    
+    .tag {
+      background: #ecf0f1;
+      padding: 3px 10px;
+      border-radius: 12px;
+      font-size: 0.8rem;
+    }
+    
+    .icons {
+      display: flex;
+      margin-top: 10px;
+      height: 30px;
+      flex-direction: column;
+      justify-content: flex-end;
+      border-top: 1px solid #e2e2e3;
+    }
+    .icons-container {
+      display: flex;
+      gap: 15px;
 
-.project-header {
-  display: flex;
-  align-items: center;
-  padding: 12px 24px;
-  gap: 12px;
-}
-
-.project-header img {
-  max-height: 50px; /* 图片最大高度 */
-  width: auto; /* 保持宽高比 */
-  max-width: 100%; /* 避免宽度超过容器 */
-  object-fit: contain; /* 保持内容完整 */
-}
-
-.project-header .project-name {
-  display: none;
-  font-weight: 500;
-  font-size: 32px;
-}
-
-.project-link {
-  display: flex;
-  gap: 5px;
-  flex-wrap: wrap;
-}
-
-.project-link img {
-  max-height: 20px;
-  width: auto;
-  max-width: 100%;
-  object-fit: contain;
-}
-
-.project-logo {
-  width: 50px;
-  height: 50px;
-}
-
-.n-divider:not(.n-divider--vertical) {
-  margin-top: 36px;
-  margin-bottom: 36px;
-}
-
-.project-card .n-divider:not(.n-divider--vertical) {
-  margin-top: 4px;
-  margin-bottom: 4px;
-}
+    }
+    .icons i {
+      color: #3498db;
+      cursor: pointer;
+    }
+    
+    .icons .fa-github { color: #333; }
+    .github, .gitee {
+      cursor: pointer;
+      height: 25px;
+    }
+    /* 响应式设计：屏幕宽度小于768px时显示单列 */
+    @media (max-width: 768px) {
+      .container {
+        grid-template-columns: 1fr;
+      }
+    }
+   
 </style>
