@@ -55,22 +55,18 @@ let isDragging = false;
 const scrollSpeed = 0.3;
 
 const breakpoints = {
-  // 超小屏手机 (≥ 320px)
   320: {
     slidesPerView: 1,
     spaceBetween: 12
   },
-  // 普通手机 (≥ 480px)
   480: {
     slidesPerView: 1,
     spaceBetween: 16
   },
-  // 大屏手机/小型平板 (≥ 640px)
   640: {
     slidesPerView: 2,
     spaceBetween: 20
   },
-  // 后续配置保持不变...
   768: {
     slidesPerView: 3,
     spaceBetween: 24
@@ -147,7 +143,6 @@ onMounted(() => {
 
     swiperEl.addEventListener('mouseenter', onMouseEnter);
     swiperEl.addEventListener('mouseleave', onMouseLeave);
-
     startScroll();
   }
   
@@ -155,11 +150,12 @@ onMounted(() => {
 
 onUnmounted(() => {
   stopScroll();
-  if (swiperInstance.value) {
+if (swiperInstance.value && swiperInstance.value.el) {
     const swiperEl = swiperInstance.value.el;
     swiperEl.removeEventListener('mouseenter', onMouseEnter);
     swiperEl.removeEventListener('mouseleave', onMouseLeave);
   }
+  swiperInstance.value = null;
 });
 </script>
 
@@ -185,7 +181,9 @@ onUnmounted(() => {
   justify-content: center;
   align-items: center;
 }
-
+.project-swiper {
+  width: 374px!important;
+}
 .project-container {
             position: relative;
             width: 374px;

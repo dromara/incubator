@@ -32,7 +32,7 @@
 </template>
 
 <script setup lang="ts">
-import { ref, onMounted } from 'vue'
+import { ref, onMounted,onUnmounted  } from 'vue'
 import { gsap } from 'gsap'
 import { ScrollTrigger } from 'gsap/ScrollTrigger'
 import Step1Content from './steps/Step1Content.vue'
@@ -58,25 +58,35 @@ const setActiveStep = (index: number) => {
   activeStep.value = index
 }
 
+const scrollTriggerInstance = ref<ScrollTrigger | null>(null);
+
 onMounted(() => {
-  ScrollTrigger.create({
+  scrollTriggerInstance.value = ScrollTrigger.create({
     trigger: guideRef.value,
     start: 'top top',
     end: '+=1000',
     scrub: true,
     markers: true,
     pin: true,
-     pinSpacing: true,
+    pinSpacing: true,
     onUpdate: (self) => {
-      const progress = self.progress
+      const progress = self.progress;
       const currentStep = Math.min(
         steps.length - 1,
         Math.max(0, Math.round(progress * (steps.length - 1)))
-      )
-      activeStep.value = currentStep
+      );
+      activeStep.value = currentStep;
     }
-  })
-})
+  });
+});
+
+onUnmounted(() => {
+  if (scrollTriggerInstance.value) {
+    scrollTriggerInstance.value.kill(); // 销毁 ScrollTrigger
+    scrollTriggerInstance.value = null; // 清空引用
+  }
+  ScrollTrigger.getAll().forEach(trigger => trigger.kill());
+});
 </script>
 
 <style scoped>
