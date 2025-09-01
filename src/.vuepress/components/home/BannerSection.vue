@@ -1,6 +1,6 @@
 <template>
   <div class="banner screen" ref="bannerRef">
-    <img src="../../public/logo.png" class="bn-img" ref="logoRef" alt="Dromara Logo">
+    <img src="/logo.png" class="bn-img" ref="logoRef" alt="Dromara Logo">
     <h1 class="bn-title" :class="{ 'animate-in': isVisible }" ref="titleRef">Dromara 孵化器</h1>
     <div class="bn-description"  :class="{ 'animate-in': isVisible }" ref="descRef">
       助力优质开源项目成长，融入 Dromara 生态，为有意加入的项目提供治理适配、资源支持与成长引导

@@ -3,6 +3,7 @@
     <ValuesSection />
     <GuideSection />
     <div class="screen3">
+        <ProjectsSwiper></ProjectsSwiper>
     </div>
 </template>
 
@@ -10,13 +11,13 @@
 import BannerSection from './BannerSection.vue'
 import ValuesSection from './ValuesSection.vue'
 import GuideSection from './GuideSection.vue'
+import ProjectsSwiper from './ProjectsSwiper.vue'
 import MentorSection from './MentorSection.vue'
 </script>
 
 <style scoped>
 .screen3{
     width: 100%;
-    background-color: pink;
 }
 </style>
 

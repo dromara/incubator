@@ -101,6 +101,7 @@ onMounted(() => {
   justify-content: center;
   gap: 60px;
   height: 100vh;
+  
 }
 
 .container {

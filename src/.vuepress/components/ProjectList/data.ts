@@ -77,7 +77,7 @@ export const projects = [
     },
     {
         name: "image-combiner",
-        website: "http://dromara.gitee.io/image-combiner",
+        website: "https://gitee.com/dromara/image-combiner",
         description: projectLocale.IMAGE_COMBINER_DESC,
         sponsor: "alexzchen",
         date: "2021.03",
@@ -131,7 +131,7 @@ export const projects = [
     },
     {
         name: "easy_trans",
-        website: "http://https://gitee.com/dromara/easy_trans",
+        website: "http://easy-trans.fhs-opensource.cn/",
         description: projectLocale.EASY_TRANS_DESC,
         sponsor: "fhs_opensource",
         date: "2023.01",
