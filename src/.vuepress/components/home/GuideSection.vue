@@ -24,7 +24,7 @@
           :class="{ active: activeStep === index }"
           :id="step.id"
         >
-          <component :is="step.component" />
+          <component class="step-change" :is="step.component" />
         </div>
       </div>
     </div>
@@ -62,10 +62,11 @@ onMounted(() => {
   ScrollTrigger.create({
     trigger: guideRef.value,
     start: 'top top',
-    end: '+=900',
+    end: '+=1000',
     scrub: true,
     markers: true,
     pin: true,
+     pinSpacing: true,
     onUpdate: (self) => {
       const progress = self.progress
       const currentStep = Math.min(
@@ -79,6 +80,20 @@ onMounted(() => {
 </script>
 
 <style scoped>
+.step-change {
+  animation: fadeIn 0.5s ease;
+}
+ @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
 .screen2 {
   background-color: #fff;
   display: flex;

@@ -7,3 +7,7 @@ color: #303284;
     box-shadow: none;
     border-bottom: 1px solid #e2e2e3;
 }
+   a::after {
+    display: none!important;
+   }
+

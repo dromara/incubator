@@ -2,7 +2,8 @@
     <BannerSection />
     <ValuesSection />
     <GuideSection />
-    <div class="screen3"></div>
+    <div class="screen3">
+    </div>
 </template>
 
 <script setup lang="ts">
@@ -15,7 +16,6 @@ import MentorSection from './MentorSection.vue'
 <style scoped>
 .screen3{
     width: 100%;
-    height: 10000px;
     background-color: pink;
 }
 </style>

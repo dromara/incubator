@@ -57,7 +57,7 @@ const projectLocale = {
 export const projects = [
     {
         name: "mica-mqtt",
-        website: "https://iot.bladex.cn",
+        website: "https://mica-mqtt.dreamlu.net",
         description: "java mqtt 基于 java aio 实现，开源、简单、易用、低延迟、高性能百万级 java mqtt client 组件和 java mqtt broker 服务",
         sponsor: "dreamlu",
         date: "2021.03",
@@ -67,7 +67,7 @@ export const projects = [
     },
     {
         name: "dongle",
-        website: "https://pkg.go.dev/gitee.com/dromara/dongle",
+        website: "https://dongle.go-pkg.com",
         description: "轻量级、语义化、对开发者友好的 golang 编码解码、加密解密和签名验签库",
         sponsor: "gouguoyin",
         date: "2021.03",
@@ -102,7 +102,7 @@ export const projects = [
     },
     {
         name: "X-File-Storage",
-        website: "https://x-file-storage.dromara.org/",
+        website: "https://spring-file-storage.xuyanwu.cn",
         description: projectLocale.X_FILE_STORAGE_DESC,
         sponsor: "梦想i（XYW1171736840）",
         date: "2023.09",
@@ -117,7 +117,7 @@ export const projects = [
     },
     {
         name: "electron-egg",
-        website: "https://www.yuque.com/u34495/mivcfg",
+        website: "https://www.kaka996.com/",
         description: projectLocale.ELECTRON_EGG_DESC,
         sponsor: "哆啦好梦（wallace530）",
         date: "2022.12",
@@ -131,7 +131,7 @@ export const projects = [
     },
     {
         name: "easy_trans",
-        website: "http://easy-trans.fhs-opensource.top/",
+        website: "http://https://gitee.com/dromara/easy_trans",
         description: projectLocale.EASY_TRANS_DESC,
         sponsor: "fhs_opensource",
         date: "2023.01",
@@ -160,7 +160,7 @@ export const projects = [
     },
     {
         name: "redisfront",
-        website: "https://www.redisfront.com/",
+        website: "https://gitee.com/dromara/redisfront",
         description: projectLocale.REDISFRONT_DESC,
         sponsor: "westboy",
         date: "2022.12",
@@ -170,7 +170,7 @@ export const projects = [
     },
     {
         name: "x-easypdf",
-        website: "http://www.x-easypdf.cn/",
+        website: "https://x-easypdf.cn/",
         description: projectLocale.X_EASYPDF_DESC,
         sponsor: "xsx（xsxgit）",
         date: "2022.07",
@@ -219,7 +219,7 @@ export const projects = [
     },
     {
         name: "sms4j",
-        website: "https://wind.kim/",
+        website: "https://sms4j.com/",
         description: projectLocale.SMS4J_DESC,
         sponsor: "风如歌（MR-wind）",
         date: "2023.04",
@@ -231,7 +231,7 @@ export const projects = [
     },
     {
         name: "stream-query",
-        website: "http://stream-query.dromara.org/",
+        website: "https://stream-query-docs-vampireachaos-projects.vercel.app/",
         description: projectLocale.STREAM_QUERY_DESC,
         sponsor: "阿超（VampireAchao）",
         date: "2023.03",
@@ -252,7 +252,7 @@ export const projects = [
     },
     {
         name: "payment-spring-boot",
-        website: "https://felord.gitee.io/payment-spring-boot",
+        website: "https://dromara.org/payment-spring-boot/#/",
         description: projectLocale.PAYMENT_SPRING_BOOT_DESC,
         sponsor: "felord",
         date: "2023.03",
@@ -282,7 +282,7 @@ export const projects = [
     },
     {
         name: "Neutrino-Proxy",
-        website: "https://gitee.com/dromara/neutrino-proxy",
+        website: "https://neutrino-proxy-docs.asgc.fun/",
         description: projectLocale.NEUTRINO_PROXY_DESC,
         sponsor: "傲世孤尘（asgc）",
         date: "2023.01",
@@ -299,7 +299,7 @@ export const projects = [
     },
     {
         name: "yft-design",
-        website: "https://www.yft.design/",
+        website: "https://yft.design",
         description: projectLocale.YFT_DESIGN_DESC,
         sponsor: "Nevermore（morestrive）",
         date: "2023.08",
@@ -313,7 +313,7 @@ export const projects = [
     },
     {
         name: "zyplayer-doc",
-        website: "http://doc.zyplayer.com/",
+        website: "https://doc.zyplayer.com",
         description: projectLocale.ZYPLAYER_DOC_DESC,
         sponsor: "暮光：城中城（zyplayer）",
         date: "2023.02",
@@ -324,7 +324,7 @@ export const projects = [
     },
     {
         name: "orion-visor",
-        website: "https://gitee.com/dromara/orion-visor",
+        website: "https://visor.orionsec.cn",
         description: projectLocale.ORION_VISOR,
         sponsor: "李佳航（lijiahangmax）",
         date: "2024.03",
@@ -358,7 +358,7 @@ export const projects = [
     </a>`
     },
     {
-        name: "DyJava",
+        name: "dy-java",
         website: "https://gitee.com/dromara/dy-java",
         description: projectLocale.DYJAVA,
         sponsor: "danmo（sxwdmjy）",
@@ -369,7 +369,7 @@ export const projects = [
     },
     {
         name: "warm-flow",
-        website: "http://warm-flow.cn",
+        website: "https://warm-flow.dromara.org/",
         description: projectLocale.WARM_FLOW,
         sponsor: "晓华（min290）",
         date: "2023.12",
@@ -388,7 +388,7 @@ export const projects = [
   </a>`
     },
     {
-        name: "skyeye-oa",
+        name: "skyeye",
         website: "https://gitee.com/dromara/skyeye",
         description: projectLocale.SKYEYE_OA,
         sponsor: "智能制造云办公（doc_wei01_admin）",
@@ -399,7 +399,7 @@ export const projects = [
     },
     {
         name: "easyAi",
-        website: "https://gitee.com/dromara/easyAi",
+        website: "https://www.myeasyai.cn/#/",
         description: projectLocale.EASYAI,
         sponsor: "唯一解（ldp_dpsmax）",
         date: "2024.05",
@@ -409,7 +409,7 @@ export const projects = [
     },
     {
         name: "mybatis-plus-ext",
-        website: "https://gitee.com/dromara/mybatis-plus-ext",
+        website: "https://www.yuque.com/dontang/codewiki/gzqgd8",
         description: projectLocale.MYBATIS_PLUS_EXT,
         sponsor: "唐振超（tangzc）",
         date: "2021.08",
@@ -419,7 +419,7 @@ export const projects = [
     },
     {
         name: "easy-query",
-        website: "https://gitee.com/dromara/easy-query",
+        website: "http://www.easy-query.com",
         description: projectLocale.EASY_QUERY,
         sponsor: "薛家明（xuejm）",
         date: "2023.07",
@@ -447,7 +447,7 @@ export const projects = [
     },
     {
         name: "dax-pay",
-        website: "https://gitee.com/dromara/dax-pay",
+        website: "https://doc.daxpay.cn",
         description: projectLocale.DAX_PAY,
         sponsor: "喵呀（GIotEE）",
         date: "2023.07",
@@ -462,7 +462,7 @@ export const projects = [
     },
     {
         name: "mayfly-go",
-        website: "https://gitee.com/dromara/mayfly-go",
+        website: "https://www.yuque.com/may-fly/mayfly-go",
         description: projectLocale.MYFLY_GO,
         sponsor: "Coder慌（objs）",
         date: "2022.05",
@@ -487,7 +487,7 @@ export const projects = [
     },
     {
         name: "MilvusPlus",
-        website: "https://milvus.cn/",
+        website: "https://milvus-plus.m78cloud.cn",
         description: projectLocale.MILVUSPLUS,
         sponsor: "xgc（giteeClass）",
         date: "2024.05",
@@ -498,7 +498,7 @@ export const projects = [
     },
     {
         name: "newcar",
-        website: "https://gitee.com/dromara/newcar",
+        website: "https://newcar.js.org/zh",
         description: projectLocale.NEWCAR,
         sponsor: "Acbox（drwave）",
         date: "2023.02",
@@ -513,7 +513,7 @@ export const projects = [
     },
     {
         name: "ujcms",
-        website: "https://gitee.com/dromara/ujcms",
+        website: "https://www.ujcms.com",
         description: projectLocale.UJCMS,
         sponsor: "ujcms（ujcms）",
         date: "2024.04",
@@ -524,7 +524,7 @@ export const projects = [
     },
     {
         name: "carbon",
-        website: "https://gitee.com/dromara/carbon",
+        website: "https://carbon.go-pkg.com/zh",
         description: projectLocale.CARBON_DESC,
         sponsor: "勾国印（gouguoyin）",
         date: "2024.10",
@@ -541,7 +541,7 @@ export const projects = [
     },
     {
         name: "TestHub",
-        website: "http://nsrule.com/",
+        website: "https://gitee.com/dromara/TestHub",
         description: projectLocale.TESTHUB_DESC,
         sponsor: "失败女神（failedgoddes）",
         date: "2023.08",
@@ -608,7 +608,7 @@ export const projects = [
     },
     {
         name: "dante-cloud",
-        website: "https://www.herodotus.cn/",
+        website: "https://www.herodotus.vip",
         description: projectLocale.DANTE_CLOUD_DESC,
         sponsor: "码匠君（herodotus）",
         date: "2022.08",
@@ -674,7 +674,7 @@ export const projects = [
     },
     {
         name: "hodor",
-        website: "https://dromara.org/zh/projects/hodor/overview",
+        website: "https://gitee.com/dromara/hodor",
         description: projectLocale.HODOR_DESC,
         sponsor: "tincopper（tomgs）",
         date: "2023.04",
