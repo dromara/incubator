@@ -2,11 +2,11 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/index/",
+  "/incubator/",
   "/projects/",
   "/mentor/",
   {
-    text: "博文",
+    text: "孵化指南",
     prefix: "/guides/",
     children: [
       { text: "项目管理委员会",  link: "ppmc" },

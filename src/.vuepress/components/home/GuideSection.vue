@@ -66,7 +66,6 @@ onMounted(() => {
     start: 'top top',
     end: '+=1000',
     scrub: true,
-    markers: true,
     pin: true,
     pinSpacing: true,
     onUpdate: (self) => {

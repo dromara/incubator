@@ -8,7 +8,7 @@ breadcrumb: false
 ---
 # 孵化器
 
-### 关于孵化器
+## 关于孵化器
 
 Dromara开源组织孵化器为有意加入Dromara开源组织的项目提供服务。
 
@@ -56,3 +56,4 @@ license
 标题为： [Proposal]  xxx项目申请加入Dromara 开源组织孵化器
 
 内容： 您的提案内容
+

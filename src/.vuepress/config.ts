@@ -14,7 +14,7 @@ export default defineUserConfig({
 
 theme: hopeTheme(
     {
-        hostname: "https://mister-hope.github.io",
+        hostname: "https://incubator.dromara.org/",
 
   author: {
     name: "dromara",
@@ -22,21 +22,16 @@ theme: hopeTheme(
 
   logo: "/logo.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
 
   docsDir: "src",
 
-  // 导航栏
   navbar,
  navbarLayout: {
     start: ["Brand","Search"],
     center: ["Links"],
     end: ["Language", "Repo", "Outlook" ],
   },
-  // 侧边栏
   sidebar,
-
-  // 页脚
   footer: "默认页脚",
   displayFooter: true,
 
@@ -75,7 +70,6 @@ theme: hopeTheme(
     vPre: true,
   },
 
-  // 在这里配置主题提供的插件
   plugins: {
     blog: true,
 
@@ -93,8 +87,6 @@ theme: hopeTheme(
   ),
 
   alias: {
-    // 你可以在这里将别名定向到自己的组件
-    // 比如这里我们将主题的主页组件改为用户 .vuepress/components 下的 HomePage.vue
     "@theme-hope/components/home/HomePage": path.resolve(
       __dirname,
       "./components/home/HomePage.vue",
@@ -109,6 +101,5 @@ theme: hopeTheme(
       },
     }),
   ],
-  // 和 PWA 一起启用
   // shouldPrefetch: false,
 });
