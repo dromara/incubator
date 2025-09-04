@@ -22,19 +22,20 @@ theme: hopeTheme(
 
   logo: "/logo.png",
 
+  repo: "https://github.com/dromara",
 
   docsDir: "src",
 
   navbar,
  navbarLayout: {
-    start: ["Brand","Search"],
+    start: ["Brand"],
     center: ["Links"],
-    end: ["Language", "Repo", "Outlook" ],
+    end: ["Language","Dromara","GiteeRepo", "Repo", "Outlook","Search" ],
   },
   sidebar,
-  footer: "默认页脚",
+  footer: "dromara",
   displayFooter: true,
-
+  darkmode: "disable",
   
   markdown: {
     align: true,
@@ -72,7 +73,7 @@ theme: hopeTheme(
 
   plugins: {
     blog: true,
-
+    photoSwipe: false,
     slimsearch: true,
     components: {
       components: ["Badge", "VPCard"],
@@ -95,6 +96,7 @@ theme: hopeTheme(
 
  plugins: [
     registerComponentsPlugin({
+      componentsDir: path.resolve(__dirname, './components'),
     components: {
         MentorList: path.resolve(__dirname, './components/MentorList/index.vue'),
         ProjectList: path.resolve(__dirname, './components/ProjectList/index.vue'),

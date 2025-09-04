@@ -7,7 +7,6 @@
       :modules="modules"
       :breakpoints="breakpoints"
       :centered-slides="true"
-      :loop="true"
       :allow-touch-move="true"
       class="mySwiper"
     >
