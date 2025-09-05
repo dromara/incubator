@@ -96,10 +96,11 @@ theme: hopeTheme(
 
  plugins: [
     registerComponentsPlugin({
-      componentsDir: path.resolve(__dirname, './components'),
     components: {
         MentorList: path.resolve(__dirname, './components/MentorList/index.vue'),
         ProjectList: path.resolve(__dirname, './components/ProjectList/index.vue'),
+        Dromara: path.resolve(__dirname, './components/Dromara.vue'),
+        GiteeRepo: path.resolve(__dirname, './components/GiteeRepo.vue'),
       },
     }),
   ],
