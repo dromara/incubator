@@ -6,7 +6,6 @@
         <template #cover>
           <n-image :src="mentor.avatar"/>
         </template>
-<!--        {{ mentor.introduction }}-->
         <template #footer>
           <div class="ellipsis-single" v-for="contact in mentor.contacts">
             <n-icon size="14">
@@ -42,7 +41,6 @@ import {
   NTimePicker, NTimeline, NTimelineItem, NTooltip, NTransfer, NTree, NTreeSelect, NWatermark, NText, NGradientText, NH1, NH2, NH3, NH4, NH5, NH6
 } from 'naive-ui';
 
-// 从data.ts导入数据
 import {mentors} from './data'
 import QQIcon from "./QQIcon.vue";
 import {ref} from "vue";
@@ -52,8 +50,8 @@ const cols = ref<number>(Math.round(Math.min(window.innerWidth, 1152) / 250))
 
 <style scoped>
 .ellipsis-single {
-  overflow: hidden; /* 隐藏超出容器的内容 */
-  white-space: nowrap; /* 禁止换行 */
-  text-overflow: ellipsis; /* 超出部分用省略号表示 */
+  overflow: hidden; 
+  white-space: nowrap; 
+  text-overflow: ellipsis; 
 }
 </style>

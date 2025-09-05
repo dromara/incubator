@@ -81,8 +81,8 @@ onMounted(() => {
 
 onUnmounted(() => {
   if (scrollTriggerInstance.value) {
-    scrollTriggerInstance.value.kill(); // 销毁 ScrollTrigger
-    scrollTriggerInstance.value = null; // 清空引用
+    scrollTriggerInstance.value.kill(); 
+    scrollTriggerInstance.value = null; 
   }
   ScrollTrigger.getAll().forEach(trigger => trigger.kill());
 });

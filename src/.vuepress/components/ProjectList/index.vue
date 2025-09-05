@@ -130,7 +130,6 @@ onMounted(() => {
       cursor: pointer;
       height: 25px;
     }
-    /* 响应式设计：屏幕宽度小于768px时显示单列 */
     @media (max-width: 768px) {
       .container {
         grid-template-columns: 1fr;
