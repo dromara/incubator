@@ -1,16 +1,33 @@
 {
+  "name": "dromara-incubator",
+  "description": "A project of dromara-incubator",
+  "version": "2.0.0",
+  "license": "MIT",
+  "type": "module",
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:build": "vuepress-vite build src",
+    "docs:clean-dev": "vuepress-vite dev src --clean-cache",
+    "dev": "vuepress-vite dev src",
+    "docs:update-package": "pnpm dlx vp-update"
   },
   "devDependencies": {
-    "@css-render/vue3-ssr": "^0.15.14",
-    "@vicons/ionicons5": "^0.12.0",
-    "vitepress": "^1.5.0"
+    "@vuepress/bundler-vite": "2.0.0-rc.24",
+    "@vuepress/plugin-register-components": "2.0.0-rc.112",
+    "@vuepress/plugin-slimsearch": "2.0.0-rc.112",
+    "naive-ui": "^2.42.0",
+    "sass-embedded": "^1.89.2",
+    "vue": "^3.5.17",
+    "vuepress": "2.0.0-rc.24",
+    "vuepress-theme-hope": "2.0.0-rc.94"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ]
   },
   "dependencies": {
-    "naive-ui": "^2.40.3",
-    "vue": "^3.5.13"
+    "@vicons/ionicons5": "^0.13.0",
+    "gsap": "^3.13.0",
+    "swiper": "^11.2.10"
   }
 }
