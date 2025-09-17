@@ -1,3 +1,5 @@
+
 node_modules/
-.idea
-docs/.vitepress/dist
+src/.vuepress/.cache/
+src/.vuepress/.temp/
+src/.vuepress/dist/

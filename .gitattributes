@@ -1,0 +1,6 @@
+# 所有文件默认使用 LF，提交时转换为 LF，检出时不转换 (避免不同系统间的换行符冲突)
+* text=auto eol=lf
+# 二进制文件（如图片、可执行文件）不转换
+*.png binary
+*.jpg binary
+*.exe binary
