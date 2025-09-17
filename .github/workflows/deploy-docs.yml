@@ -30,7 +30,7 @@ jobs:
           node-version: 22
           cache: pnpm
 
-      - name: 安装依赖
+      - name: Install dependencies
         run: |
           corepack enable
           pnpm install --frozen-lockfile
