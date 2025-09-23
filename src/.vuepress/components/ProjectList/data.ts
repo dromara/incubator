@@ -67,12 +67,15 @@ export const projects = [
     },
     {
         name: "dongle",
-        website: "https://dongle.go-pkg.com",
-        description: "轻量级、语义化、对开发者友好的 golang 编码解码、加密解密和签名验签库",
+        website: "https://dongle.go-pkg.com/zh",
+        description: "轻量级、语义化、对开发者友好的 golang 密码库",
         sponsor: "gouguoyin",
         date: "2021.03",
         link: `
-  <a href="https://gitee.com/dromara/dongle"><img onerror="this.style.display='none'" src="https://gitee.com/dromara/dongle/badge/star.svg"></a>
+<a href='https://gitee.com/dromara/dongle/stargazers'><img onerror="this.style.display='none'" src='https://gitee.com/dromara/dongle/badge/star.svg?theme=gvp' alt='star'></img></a>
+<a href="https://github.com/dromara/dongle"><img onerror="this.style.display='none'" src="https://img.shields.io/github/stars/dromara/dongle.svg?style=social&amp;label=Stars" alt="GitHub"></a>
+<a target="_blank" href="https://github.com/dromara/dongle/releases"><img onerror="this.style.display='none'" src="https://img.shields.io/github/release/dromara/dongle.svg"></a>
+<a target="_blank" href="https://github.com/dromara/dongle/blob/master/LICENSE"><img onerror="this.style.display='none'" src="https://img.shields.io/github/license/dromara/dongle"></a>\`
   `
     },
     {
@@ -526,18 +529,14 @@ export const projects = [
         name: "carbon",
         website: "https://carbon.go-pkg.com/zh",
         description: projectLocale.CARBON_DESC,
-        sponsor: "勾国印（gouguoyin）",
+        sponsor: "gouguoyin",
         date: "2024.10",
         link: `
 
-<a href='https://gitee.com/dromara/carbon/stargazers'><img onerror="this.style.display='none'" src='https://gitee.com/dromara/carbon/badge/star.svg?theme=gvp' alt='star'></img></a>
-  <a href="https://github.com/dromara/carbon"><img onerror="this.style.display='none'" src="https://img.shields.io/github/stars/dromara/carbon.svg?style=social&amp;label=Stars" alt="GitHub"></a>
-<a target="_blank" href="https://github.com/dromara/carbon/releases">
-  <img onerror="this.style.display='none'" src="https://img.shields.io/github/release/dromara/carbon.svg">
-</a>
-<a target="_blank" href="https://github.com/dromara/carbon/blob/master/LICENSE">
-  <img onerror="this.style.display='none'" src="https://img.shields.io/github/license/dromara/carbon">
-</a>`
+<a href='https://gitee.com/dromara/carbon/stargazers'><img onerror="this.style.display='none'" src='https://gitee.com/dromara/carbon/badge/star.svg?theme=gvp' alt='star' /></a>
+<a href="https://github.com/dromara/carbon"><img onerror="this.style.display='none'" src="https://img.shields.io/github/stars/dromara/carbon.svg?style=social&amp;label=Stars" alt="GitHub" /></a>
+<a target="_blank" href="https://github.com/dromara/carbon/releases"><img onerror="this.style.display='none'" src="https://img.shields.io/github/release/dromara/carbon.svg" /></a>
+<a target="_blank" href="https://github.com/dromara/carbon/blob/master/LICENSE"><img onerror="this.style.display='none'" src="https://img.shields.io/github/license/dromara/carbon" /></a>`
     },
     {
         name: "TestHub",
