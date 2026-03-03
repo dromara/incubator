@@ -14,7 +14,6 @@ const projectLocale = {
     WARM_FLOW: "国产工作流引擎,其特点简洁轻量但又不简单，五脏俱全，组件独立，可扩展，可满足中小项目的组件.解决flowable和activities复杂、学习成本高和集成难等痛点。",
     DBSWITCH: "异构数据库迁移同步(搬家)工具",
     SKYEYE_OA: "智能制造一体化，采用Springboot + winUI的低代码平台开发模式",
-    EASYAI: "国内人气最高的Java人工智能算法框架(java版pytorch)。它可以Maven一键丝滑引入我们的Java项目，无需任何额外的环境配置与依赖，做到开箱即用",
     MYBATIS_PLUS_EXT: "mybatis-plus框架的拓展包，在框架原有基础上做了进一步的轻度封装，增强内容：免手写Mapper、多数据源自动建表、数据自动填充、自动关联查询、冗余数据自动更新、动态查询条件等。",
     EASY_QUERY: "一款java下面支持强类型、轻量级、高性能的ORM",
     TIANAI_CAPTCHA: "可能是java界最好的开源行为验证码, [滑块验证码、点选验证码、行为验证码、旋转验证码，滑动验证码]",
@@ -398,16 +397,6 @@ export const projects = [
         date: "2022.08",
         link: `<a href="https://gitee.com/dromara/skyeye">
       <img onerror="this.style.display='none'" src="https://gitee.com/dromara/skyeye/badge/star.svg" alt="Gitee Stars">
-  </a>`
-    },
-    {
-        name: "easyAi",
-        website: "https://www.myeasyai.cn/#/",
-        description: projectLocale.EASYAI,
-        sponsor: "唯一解（ldp_dpsmax）",
-        date: "2024.05",
-        link: `<a href="https://gitee.com/dromara/easyAi">
-      <img onerror="this.style.display='none'" src="https://gitee.com/dromara/easyAi/badge/star.svg" alt="Gitee Stars">
   </a>`
     },
     {
